@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Website
+    url: http://macbunny.co/utilix
+    about: Visit the Utilix website for news and downloads
+  - name: Security Reports
+    url: mailto:stfuazzo@gmail.com
+    about: Please report security vulnerabilities privately via email 
