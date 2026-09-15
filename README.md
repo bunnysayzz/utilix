@@ -23,6 +23,14 @@ Utilix is a lightweight macOS menu bar app that bundles everyday utilities into 
 - Default Browser: Quick access to your default browser settings
 - Empty Trash: Empty the Trash quickly
 - Desktop Switch: Clickable glowing edges to switch macOS desktops
+- Calendar Meetings: Upcoming meetings with one-click join links
+- Pomodoro: Focus timer with menu-bar countdown
+- Translate: Translate, polish, and summarize text
+- Window Snap: Tile windows into halves and thirds
+- GIF Recorder: Silent short screen captures
+- Dev Tools: Format and transform text (JSON, Base64, URL, cases)
+- Color Picker: Pick and track screen colors
+- AI Chat: Optional assistant (bring your own API key)
 - Keyboard Shortcuts: Optional global shortcuts (e.g., Mac Vision via ⌥+X)
 - Launch at Login and Notifications toggles
 
@@ -45,10 +53,16 @@ Utilix is a lightweight macOS menu bar app that bundles everyday utilities into 
 | About |
 | --- |
 | ![About](assets/screenshots/about.png) |
-
 ## Download
+
 - Go to this repository’s Releases page and download the latest `.dmg` installer.
 - Choose the build that matches your Mac (Universal or Apple Silicon, if provided).
+
+## Updates
+
+Utilix updates itself: when a new version is published here, running installs
+are offered the update in-app (menu bar → Check for Updates…), verified by
+signature before installing. No account or additional download step needed.
 
 ## Install
 1. Open the downloaded `.dmg`.
@@ -57,8 +71,9 @@ Utilix is a lightweight macOS menu bar app that bundles everyday utilities into 
 
 ## Required Permissions
 Some utilities need macOS permissions:
-- Accessibility: For desktop switching, shortcuts, and automation
-- Screen Recording: For on‑device OCR (Mac Vision)
+- Accessibility: For desktop switching, window snapping, shortcuts, and automation
+- Screen Recording: For on‑device OCR (Mac Vision) and GIF recording
+- Calendars: For upcoming meetings with join links (optional)
 - Full Disk Access (optional): For comprehensive file utilities
 
 You can enable these in System Settings → Privacy & Security. Utilix also provides shortcuts to these pages from Preferences → Permissions.

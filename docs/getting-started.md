@@ -12,9 +12,14 @@
 - Open Preferences → General to enable Launch at Login and notifications (optional).
 - Open Preferences → Utilities to enable the tools you want.
 - Open Preferences → Permissions to grant required permissions:
-  - Accessibility (Desktop Switch, Shortcuts, Automation)
-  - Screen Recording (Mac Vision OCR)
+  - Accessibility (Desktop Switch, Window Snap, Shortcuts, Automation)
+  - Screen Recording (Mac Vision OCR, GIF recording)
+  - Calendars (optional, for meeting join links)
   - Full Disk Access (optional for file utilities)
+
+## Updates
+New versions published on the Releases page are offered in-app
+(menu bar → Check for Updates…), verified by signature before installing.
 
 ## Uninstall
 - Quit Utilix from the menu bar

@@ -15,5 +15,13 @@
 - Default Browser — Quick access to default browser settings
 - Empty Trash — Empty the Trash quickly
 - Desktop Switch — Clickable glowing edges to switch desktops
+- Calendar Meetings — Upcoming meetings with one-click join links
+- Pomodoro — Focus timer with menu-bar countdown
+- Translate — Translate, polish, and summarize text
+- Window Snap — Tile windows into halves and thirds
+- GIF Recorder — Silent short screen captures
+- Dev Tools — Format and transform text (JSON, Base64, URL, cases)
+- Color Picker — Pick and track screen colors
+- AI Chat — Optional assistant (bring your own API key)
 - Keyboard Shortcuts — Optional global shortcuts (e.g., Mac Vision via ⌥+X)
 - Launch at Login and Notifications toggles 

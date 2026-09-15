@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Utilix</title>
+    <link>https://raw.githubusercontent.com/bunnysayzz/utilix/main/appcast.xml</link>
+    <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
+    <language>en</language>
+    <!-- Release entries are appended by scripts/release.sh (via scripts/update-appcast.py),
+         newest first. Entries are signed with the Utilix Sparkle EdDSA key whose public
+         half is embedded as SUPublicEDKey in Info.plist. -->
+  </channel>
+</rss>
