@@ -6,12 +6,16 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.07</title><pubDate>Tue, 15 Sep 2026 20:50:18 +0000</pubDate><description><![CDATA[## What's new in 1.0.07<br/>
+  <item><title>Version 1.0.08</title><pubDate>Tue, 15 Sep 2026 21:21:28 +0000</pubDate><description><![CDATA[## What's new in 1.0.08<br/>
 <br/>
-- Tapping a clipboard item now copies it instead of opening the full list<br/>
-- On-screen messages now wrap at whole words so nothing gets cut off<br/>
-- Pin buttons in clipboard history now show only when you hover over a row<br/>
-- Pasting now only works in text areas where you can actually type]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.07/Utilix-1.0.07.dmg" type="application/octet-stream" sparkle:version="202609160215" sparkle:shortVersionString="1.0.07" sparkle:edSignature="bYPv2sjhGmMZi0BO/Zo/wKmwTM6wS9oNjs4dI0Me81CG9ElvYlYUG4pZQwkXo/so6rbDqq48pK45Cr6eGZjPAw==" length="17166514" /></item><item><title>Version 1.0.06</title><pubDate>Tue, 15 Sep 2026 20:13:33 +0000</pubDate><description>## What's new in 1.0.06&lt;br/&gt;
+- You can now check for and install updates right from Settings, under About.<br/>
+- Updates are more reliable thanks to a new built-in update system.<br/>
+- Fixed a problem that could leave backup files in your Downloads folder.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.08/Utilix-1.0.08.dmg" type="application/octet-stream" sparkle:version="202609160246" sparkle:shortVersionString="1.0.08" sparkle:edSignature="1PDFioCXtuUubtNbWN2Gy1Z7hc6rJ/O4tN2czHVPCXOmC+VH41nFDurCiSVbu/nDyHbUU1q1b1NFsZuiURARDQ==" length="18125663" /></item><item><title>Version 1.0.07</title><pubDate>Tue, 15 Sep 2026 20:50:18 +0000</pubDate><description>## What's new in 1.0.07&lt;br/&gt;
+&lt;br/&gt;
+- Tapping a clipboard item now copies it instead of opening the full list&lt;br/&gt;
+- On-screen messages now wrap at whole words so nothing gets cut off&lt;br/&gt;
+- Pin buttons in clipboard history now show only when you hover over a row&lt;br/&gt;
+- Pasting now only works in text areas where you can actually type</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.07/Utilix-1.0.07.dmg" type="application/octet-stream" sparkle:version="202609160215" sparkle:shortVersionString="1.0.07" sparkle:edSignature="bYPv2sjhGmMZi0BO/Zo/wKmwTM6wS9oNjs4dI0Me81CG9ElvYlYUG4pZQwkXo/so6rbDqq48pK45Cr6eGZjPAw==" length="17166514" /></item><item><title>Version 1.0.06</title><pubDate>Tue, 15 Sep 2026 20:13:33 +0000</pubDate><description>## What's new in 1.0.06&lt;br/&gt;
 &lt;br/&gt;
 - Utilix now saves a safety backup of your settings before each update&lt;br/&gt;
 - Your saved passwords stay protected during updates&lt;br/&gt;
