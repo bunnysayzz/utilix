@@ -6,11 +6,16 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.08</title><pubDate>Tue, 15 Sep 2026 21:21:28 +0000</pubDate><description><![CDATA[## What's new in 1.0.08<br/>
+  <item><title>Version 1.0.09</title><pubDate>Tue, 15 Sep 2026 21:51:21 +0000</pubDate><description><![CDATA[## What's new in 1.0.09<br/>
 <br/>
-- You can now check for and install updates right from Settings, under About.<br/>
-- Updates are more reliable thanks to a new built-in update system.<br/>
-- Fixed a problem that could leave backup files in your Downloads folder.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.08/Utilix-1.0.08.dmg" type="application/octet-stream" sparkle:version="202609160246" sparkle:shortVersionString="1.0.08" sparkle:edSignature="1PDFioCXtuUubtNbWN2Gy1Z7hc6rJ/O4tN2czHVPCXOmC+VH41nFDurCiSVbu/nDyHbUU1q1b1NFsZuiURARDQ==" length="18125663" /></item><item><title>Version 1.0.07</title><pubDate>Tue, 15 Sep 2026 20:50:18 +0000</pubDate><description>## What's new in 1.0.07&lt;br/&gt;
+- The status menu now opens neatly centered under the menu bar icon<br/>
+- Software update checks now live in one place in the About window<br/>
+- The About window shows the latest release notes for this version<br/>
+- Small polish and internal cleanups for a smoother first release]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.09/Utilix-1.0.09.dmg" type="application/octet-stream" sparkle:version="202609160317" sparkle:shortVersionString="1.0.09" sparkle:edSignature="GG+ABwTEklEwpkuPVS07ihPN/y8Gn4gaL4RIIdXtfx63TtdM0Evm5HwiP6G9zAKT4pwauadd8w1NR49Gs9QjBw==" length="18135554" /></item><item><title>Version 1.0.08</title><pubDate>Tue, 15 Sep 2026 21:21:28 +0000</pubDate><description>## What's new in 1.0.08&lt;br/&gt;
+&lt;br/&gt;
+- You can now check for and install updates right from Settings, under About.&lt;br/&gt;
+- Updates are more reliable thanks to a new built-in update system.&lt;br/&gt;
+- Fixed a problem that could leave backup files in your Downloads folder.</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.08/Utilix-1.0.08.dmg" type="application/octet-stream" sparkle:version="202609160246" sparkle:shortVersionString="1.0.08" sparkle:edSignature="1PDFioCXtuUubtNbWN2Gy1Z7hc6rJ/O4tN2czHVPCXOmC+VH41nFDurCiSVbu/nDyHbUU1q1b1NFsZuiURARDQ==" length="18125663" /></item><item><title>Version 1.0.07</title><pubDate>Tue, 15 Sep 2026 20:50:18 +0000</pubDate><description>## What's new in 1.0.07&lt;br/&gt;
 &lt;br/&gt;
 - Tapping a clipboard item now copies it instead of opening the full list&lt;br/&gt;
 - On-screen messages now wrap at whole words so nothing gets cut off&lt;br/&gt;
