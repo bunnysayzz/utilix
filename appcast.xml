@@ -1,12 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Utilix</title>
     <link>https://raw.githubusercontent.com/bunnysayzz/utilix/main/appcast.xml</link>
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
-    <!-- Release entries are appended by scripts/release.sh (via scripts/update-appcast.py),
-         newest first. Entries are signed with the Utilix Sparkle EdDSA key whose public
-         half is embedded as SUPublicEDKey in Info.plist. -->
-  </channel>
+    
+  <item><title>Version 1.0.01</title><pubDate>Tue, 15 Sep 2026 12:17:29 +0000</pubDate><description>&lt;![CDATA[## What&amp;#x27;s new in 1.0.01
+
+- Initial commit: Utilix macOS menu bar utility app
+- Add Sparkle auto-updates, release tooling, and the isolated test app
+- Performance overhaul + A-Z UI/UX pass and Keep Awake duration-switch fix
+- Phase 1: ember accent standardization + rainbow cleanup
+- Phase 2: type ramp floor 10pt + elevation shadow removal
+- Phase 3: unify keycap renderer
+- Phase 4: palette material pass
+- Rewrite palette pager with SpacesRail two-finger-scroll method
+- Fix snippet edit/delete, row click targets, nested-button double-fire + utility audit fixes
+- Document agent workflow: architecture, research-first, production UI rules, build discipline
+- Add repo-local opencode.json pointing at AGENTS.md
+- Remove fixed snippet row actions from popover (hover pills in palette own edit/delete)
+- Rebuild auto-type: stoppable engine, indent bypass, editable palette panel
+- Auto-type refuses honestly without Accessibility instead of typing nothing
+- Guard auto-type re-entry; spell out focus requirement in UI
+- Make auto-type trust check and keycode map unit-testable; pin mapping/guard/refusal
+- Seam auto-type event sink; prove firing order, wipe, unicode, cancel headlessly
+- Auto-type newlines via Shift+Enter; expand tabs to spaces (script-faithful, never submits)
+- Pin Sparkle floor to 2.9.6 (security fixes); sync docs
+- Slider key/start delays with clamps; auto-restore typing focus; migrate old speed tiers
+- Compact auto-type panel: header row, side-by-side sliders, short footnote
+- Pin palette search bar; clip overflowing detail panes at the bottom
+- Auto-type editor flexes into pane void; ember toggle
+- Borderless Raycast-style search bar; loupe brightens on focus
+- Drop palette close button; outside-click and Esc already dismiss
+- Hover-only ghost icon row actions; drop solid text pills
+- Phase 0 foundations: unify buttons/ghosts/icons/empties/motion, drop dead code
+- Phase 1 palette: grouped sidebar, sectioned results, unified panes, ember AI
+- Phase 2 popover: unified rows, merged placeholders, trimmed panes
+- Phase 3 settings: unified rows, native About panel, cleanup feedback
+- Phase 4 audit: full ember, pressed states, motion tokens, a11y labels
+- Mac Vision captures everywhere via ScreenCaptureKit; clipboard append mode + text preview
+- Mac Vision excludes own windows from capture; testable clipboard write path
+- Mac Vision: testable OCR pipeline, blank-result guard, clipboard monitor baseline sync
+- Stable self-signed identity ends the rebuild permission dance
+- Shipped updates carry the stable identity; EdDSA public key matches keychain
+- Stale-grant recovery script, stable DMG signing, free-forever release docs
+- FDA onboarding auto-adds the list row; synchronous in-process trigger
+- Never per-bundle reset FDA; add FDA probe support hook
+- Fix quit-during-onboarding crash; nil-guard utilities cleanup]]&gt;</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.01/Utilix-1.0.01.dmg" type="application/octet-stream" sparkle:version="202609151744" sparkle:shortVersionString="1.0.01" sparkle:edSignature="6r17QLeMz90RpB90zuBVHGiftinoV6SZM1aN3/TBibFfagl73Y1fuf4PaBhUcuQ0TnakLySsd2lPrI/yblglCw==" length="19858104" /></item></channel>
 </rss>
