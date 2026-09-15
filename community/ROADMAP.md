@@ -2,6 +2,12 @@
 
 This is a non-binding outline of areas we’re exploring. Priorities may change based on feedback.
 
+## Shipped Recently
+- In-app updates with signature verification + What's New banner (1.0.01–1.0.04)
+- Calendar meetings with one-click join (1.0.01)
+- Native right-click status menu, centered with grouped separators (1.0.02–1.0.04)
+- 70+ AI providers with parallel key detection (1.0.01)
+
 ## Under Consideration
 - Snippets improvements (search, tagging)
 - Clipboard history refinements
