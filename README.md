@@ -52,8 +52,6 @@ Utilix is a lightweight macOS menu bar app that bundles everyday utilities into 
 
 ![Preferences](assets/screenshots/preferences.png)
 
-![Status menu](assets/screenshots/status-menu.png)
-
 ### Older Screenshots
 
 ![Interface](assets/screenshots/interface.png)
