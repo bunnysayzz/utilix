@@ -6,13 +6,18 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.06</title><pubDate>Tue, 15 Sep 2026 20:13:33 +0000</pubDate><description><![CDATA[## What's new in 1.0.06<br/>
+  <item><title>Version 1.0.07</title><pubDate>Tue, 15 Sep 2026 20:50:18 +0000</pubDate><description><![CDATA[## What's new in 1.0.07<br/>
 <br/>
-- Utilix now saves a safety backup of your settings before each update<br/>
-- Your saved passwords stay protected during updates<br/>
-- If an update is interrupted, Utilix recovers on its own<br/>
-- AI notes are now on by default and work automatically<br/>
-- Updates are more reliable, with automatic rollback if something fails]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.06/Utilix-1.0.06.dmg" type="application/octet-stream" sparkle:version="202609160138" sparkle:shortVersionString="1.0.06" sparkle:edSignature="bOsmjy3H2s8hnb/tPknqmVcZHGuDK70VQN/XPVA9BrCDcLZ6Kv7IbznJAYTCy11bdsJoTNQyGCbMByqQLmvbAQ==" length="17148654" /></item><item><title>Version 1.0.05</title><pubDate>Tue, 15 Sep 2026 15:16:39 +0000</pubDate><description>## What's new in 1.0.05&lt;br/&gt;
+- Tapping a clipboard item now copies it instead of opening the full list<br/>
+- On-screen messages now wrap at whole words so nothing gets cut off<br/>
+- Pin buttons in clipboard history now show only when you hover over a row<br/>
+- Pasting now only works in text areas where you can actually type]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.07/Utilix-1.0.07.dmg" type="application/octet-stream" sparkle:version="202609160215" sparkle:shortVersionString="1.0.07" sparkle:edSignature="bYPv2sjhGmMZi0BO/Zo/wKmwTM6wS9oNjs4dI0Me81CG9ElvYlYUG4pZQwkXo/so6rbDqq48pK45Cr6eGZjPAw==" length="17166514" /></item><item><title>Version 1.0.06</title><pubDate>Tue, 15 Sep 2026 20:13:33 +0000</pubDate><description>## What's new in 1.0.06&lt;br/&gt;
+&lt;br/&gt;
+- Utilix now saves a safety backup of your settings before each update&lt;br/&gt;
+- Your saved passwords stay protected during updates&lt;br/&gt;
+- If an update is interrupted, Utilix recovers on its own&lt;br/&gt;
+- AI notes are now on by default and work automatically&lt;br/&gt;
+- Updates are more reliable, with automatic rollback if something fails</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.06/Utilix-1.0.06.dmg" type="application/octet-stream" sparkle:version="202609160138" sparkle:shortVersionString="1.0.06" sparkle:edSignature="bOsmjy3H2s8hnb/tPknqmVcZHGuDK70VQN/XPVA9BrCDcLZ6Kv7IbznJAYTCy11bdsJoTNQyGCbMByqQLmvbAQ==" length="17148654" /></item><item><title>Version 1.0.05</title><pubDate>Tue, 15 Sep 2026 15:16:39 +0000</pubDate><description>## What's new in 1.0.05&lt;br/&gt;
 &lt;br/&gt;
 - What's New: auto-open palette banner once per version&lt;br/&gt;
 - Release: opt-in AI polish (AgentRouter) for notes + banner stamp</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.05/Utilix-1.0.05.dmg" type="application/octet-stream" sparkle:version="202609152043" sparkle:shortVersionString="1.0.05" sparkle:edSignature="Y9iZAsGPE/F1fs4TYpdbPViXVkhzWQ/zHm1K2uW7BWneHAaWhu9gr+Uz0YnVsnfaybT2XYteBBeG5nNuaGiBBA==" length="17059450" /></item><item><title>Version 1.0.04</title><pubDate>Tue, 15 Sep 2026 13:56:14 +0000</pubDate><description>## What's new in 1.0.04&lt;br/&gt;
