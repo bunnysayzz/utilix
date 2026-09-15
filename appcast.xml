@@ -6,48 +6,50 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.02</title><pubDate>Tue, 15 Sep 2026 13:02:27 +0000</pubDate><description><![CDATA[## What's new in 1.0.02<br/>
+  <item><title>Version 1.0.03</title><pubDate>Tue, 15 Sep 2026 13:25:36 +0000</pubDate><description><![CDATA[## What's new in 1.0.03<br/>
 <br/>
-- Right-click menu: replace custom panel with native NSMenu (flicker + no-dismiss fix)]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.02/Utilix-1.0.02.dmg" type="application/octet-stream" sparkle:version="202609151829" sparkle:shortVersionString="1.0.02" sparkle:edSignature="UQHJE5uJaqKelhqKfHKM7rp2c/JGZFdAI8MQFI5lmVn/is1RKYZ1huceUybNLfO4TssYgoc79GZ1BIBsJFULBQ==" length="16947682" /></item><item><title>Version 1.0.01</title><pubDate>Tue, 15 Sep 2026 12:17:29 +0000</pubDate><description><![CDATA[## What's new in 1.0.01<br/>
-<br/>
-- Initial commit: Utilix macOS menu bar utility app<br/>
-- Add Sparkle auto-updates, release tooling, and the isolated test app<br/>
-- Performance overhaul + A-Z UI/UX pass and Keep Awake duration-switch fix<br/>
-- Phase 1: ember accent standardization + rainbow cleanup<br/>
-- Phase 2: type ramp floor 10pt + elevation shadow removal<br/>
-- Phase 3: unify keycap renderer<br/>
-- Phase 4: palette material pass<br/>
-- Rewrite palette pager with SpacesRail two-finger-scroll method<br/>
-- Fix snippet edit/delete, row click targets, nested-button double-fire + utility audit fixes<br/>
-- Document agent workflow: architecture, research-first, production UI rules, build discipline<br/>
-- Add repo-local opencode.json pointing at AGENTS.md<br/>
-- Remove fixed snippet row actions from popover (hover pills in palette own edit/delete)<br/>
-- Rebuild auto-type: stoppable engine, indent bypass, editable palette panel<br/>
-- Auto-type refuses honestly without Accessibility instead of typing nothing<br/>
-- Guard auto-type re-entry; spell out focus requirement in UI<br/>
-- Make auto-type trust check and keycode map unit-testable; pin mapping/guard/refusal<br/>
-- Seam auto-type event sink; prove firing order, wipe, unicode, cancel headlessly<br/>
-- Auto-type newlines via Shift+Enter; expand tabs to spaces (script-faithful, never submits)<br/>
-- Pin Sparkle floor to 2.9.6 (security fixes); sync docs<br/>
-- Slider key/start delays with clamps; auto-restore typing focus; migrate old speed tiers<br/>
-- Compact auto-type panel: header row, side-by-side sliders, short footnote<br/>
-- Pin palette search bar; clip overflowing detail panes at the bottom<br/>
-- Auto-type editor flexes into pane void; ember toggle<br/>
-- Borderless Raycast-style search bar; loupe brightens on focus<br/>
-- Drop palette close button; outside-click and Esc already dismiss<br/>
-- Hover-only ghost icon row actions; drop solid text pills<br/>
-- Phase 0 foundations: unify buttons/ghosts/icons/empties/motion, drop dead code<br/>
-- Phase 1 palette: grouped sidebar, sectioned results, unified panes, ember AI<br/>
-- Phase 2 popover: unified rows, merged placeholders, trimmed panes<br/>
-- Phase 3 settings: unified rows, native About panel, cleanup feedback<br/>
-- Phase 4 audit: full ember, pressed states, motion tokens, a11y labels<br/>
-- Mac Vision captures everywhere via ScreenCaptureKit; clipboard append mode + text preview<br/>
-- Mac Vision excludes own windows from capture; testable clipboard write path<br/>
-- Mac Vision: testable OCR pipeline, blank-result guard, clipboard monitor baseline sync<br/>
-- Stable self-signed identity ends the rebuild permission dance<br/>
-- Shipped updates carry the stable identity; EdDSA public key matches keychain<br/>
-- Stale-grant recovery script, stable DMG signing, free-forever release docs<br/>
-- FDA onboarding auto-adds the list row; synchronous in-process trigger<br/>
-- Never per-bundle reset FDA; add FDA probe support hook<br/>
-- Fix quit-during-onboarding crash; nil-guard utilities cleanup]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.01/Utilix-1.0.01.dmg" type="application/octet-stream" sparkle:version="202609151744" sparkle:shortVersionString="1.0.01" sparkle:edSignature="6r17QLeMz90RpB90zuBVHGiftinoV6SZM1aN3/TBibFfagl73Y1fuf4PaBhUcuQ0TnakLySsd2lPrI/yblglCw==" length="19858104" /></item></channel>
+- Release: sign with ed25519 account + key-match guard (fix 'improperly signed')]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.03/Utilix-1.0.03.dmg" type="application/octet-stream" sparkle:version="202609151854" sparkle:shortVersionString="1.0.03" sparkle:edSignature="V80EVjIIihRXQqv0mBweO6t9ppuRGbiQEVGGSTxi2r6w3xTtr1VSXmBAFYhEt0DDZflGczh4WcZ2HTjBdM+ZDw==" length="16947727" /></item><item><title>Version 1.0.02</title><pubDate>Tue, 15 Sep 2026 13:02:27 +0000</pubDate><description>## What's new in 1.0.02&lt;br/&gt;
+&lt;br/&gt;
+- Right-click menu: replace custom panel with native NSMenu (flicker + no-dismiss fix)</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.02/Utilix-1.0.02.dmg" type="application/octet-stream" sparkle:version="202609151829" sparkle:shortVersionString="1.0.02" sparkle:edSignature="UQHJE5uJaqKelhqKfHKM7rp2c/JGZFdAI8MQFI5lmVn/is1RKYZ1huceUybNLfO4TssYgoc79GZ1BIBsJFULBQ==" length="16947682" /></item><item><title>Version 1.0.01</title><pubDate>Tue, 15 Sep 2026 12:17:29 +0000</pubDate><description>## What's new in 1.0.01&lt;br/&gt;
+&lt;br/&gt;
+- Initial commit: Utilix macOS menu bar utility app&lt;br/&gt;
+- Add Sparkle auto-updates, release tooling, and the isolated test app&lt;br/&gt;
+- Performance overhaul + A-Z UI/UX pass and Keep Awake duration-switch fix&lt;br/&gt;
+- Phase 1: ember accent standardization + rainbow cleanup&lt;br/&gt;
+- Phase 2: type ramp floor 10pt + elevation shadow removal&lt;br/&gt;
+- Phase 3: unify keycap renderer&lt;br/&gt;
+- Phase 4: palette material pass&lt;br/&gt;
+- Rewrite palette pager with SpacesRail two-finger-scroll method&lt;br/&gt;
+- Fix snippet edit/delete, row click targets, nested-button double-fire + utility audit fixes&lt;br/&gt;
+- Document agent workflow: architecture, research-first, production UI rules, build discipline&lt;br/&gt;
+- Add repo-local opencode.json pointing at AGENTS.md&lt;br/&gt;
+- Remove fixed snippet row actions from popover (hover pills in palette own edit/delete)&lt;br/&gt;
+- Rebuild auto-type: stoppable engine, indent bypass, editable palette panel&lt;br/&gt;
+- Auto-type refuses honestly without Accessibility instead of typing nothing&lt;br/&gt;
+- Guard auto-type re-entry; spell out focus requirement in UI&lt;br/&gt;
+- Make auto-type trust check and keycode map unit-testable; pin mapping/guard/refusal&lt;br/&gt;
+- Seam auto-type event sink; prove firing order, wipe, unicode, cancel headlessly&lt;br/&gt;
+- Auto-type newlines via Shift+Enter; expand tabs to spaces (script-faithful, never submits)&lt;br/&gt;
+- Pin Sparkle floor to 2.9.6 (security fixes); sync docs&lt;br/&gt;
+- Slider key/start delays with clamps; auto-restore typing focus; migrate old speed tiers&lt;br/&gt;
+- Compact auto-type panel: header row, side-by-side sliders, short footnote&lt;br/&gt;
+- Pin palette search bar; clip overflowing detail panes at the bottom&lt;br/&gt;
+- Auto-type editor flexes into pane void; ember toggle&lt;br/&gt;
+- Borderless Raycast-style search bar; loupe brightens on focus&lt;br/&gt;
+- Drop palette close button; outside-click and Esc already dismiss&lt;br/&gt;
+- Hover-only ghost icon row actions; drop solid text pills&lt;br/&gt;
+- Phase 0 foundations: unify buttons/ghosts/icons/empties/motion, drop dead code&lt;br/&gt;
+- Phase 1 palette: grouped sidebar, sectioned results, unified panes, ember AI&lt;br/&gt;
+- Phase 2 popover: unified rows, merged placeholders, trimmed panes&lt;br/&gt;
+- Phase 3 settings: unified rows, native About panel, cleanup feedback&lt;br/&gt;
+- Phase 4 audit: full ember, pressed states, motion tokens, a11y labels&lt;br/&gt;
+- Mac Vision captures everywhere via ScreenCaptureKit; clipboard append mode + text preview&lt;br/&gt;
+- Mac Vision excludes own windows from capture; testable clipboard write path&lt;br/&gt;
+- Mac Vision: testable OCR pipeline, blank-result guard, clipboard monitor baseline sync&lt;br/&gt;
+- Stable self-signed identity ends the rebuild permission dance&lt;br/&gt;
+- Shipped updates carry the stable identity; EdDSA public key matches keychain&lt;br/&gt;
+- Stale-grant recovery script, stable DMG signing, free-forever release docs&lt;br/&gt;
+- FDA onboarding auto-adds the list row; synchronous in-process trigger&lt;br/&gt;
+- Never per-bundle reset FDA; add FDA probe support hook&lt;br/&gt;
+- Fix quit-during-onboarding crash; nil-guard utilities cleanup</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.01/Utilix-1.0.01.dmg" type="application/octet-stream" sparkle:version="202609151744" sparkle:shortVersionString="1.0.01" sparkle:edSignature="6r17QLeMz90RpB90zuBVHGiftinoV6SZM1aN3/TBibFfagl73Y1fuf4PaBhUcuQ0TnakLySsd2lPrI/yblglCw==" length="19858104" /></item></channel>
 </rss>
