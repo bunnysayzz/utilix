@@ -6,12 +6,16 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.19</title><pubDate>Wed, 16 Sep 2026 18:17:43 +0000</pubDate><description><![CDATA[## What's new in 1.0.19<br/>
+  <item><title>Version 1.0.20</title><pubDate>Wed, 16 Sep 2026 19:41:04 +0000</pubDate><description><![CDATA[## What's new in 1.0.20<br/>
 <br/>
-- Updates now install and relaunch on their own, with no manual quit needed<br/>
-- The app quietly takes over when a new version is ready to go<br/>
-- No more prompts asking you to quit before an update starts<br/>
-- You get back to work faster since the app restarts for you]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.19/Utilix-1.0.19.dmg" type="application/octet-stream" sparkle:version="202609162345" sparkle:shortVersionString="1.0.19" sparkle:edSignature="Upa9yiZZxZNvyN/q5azJtxtv5pd98Fd5Nx/64+4bv4I5/PnnF8LxcONGULy4x1genLr8rbKHOpDTGIZz1aVpDA==" length="19131312" /></item><item><title>Version 1.0.18</title><pubDate>Wed, 16 Sep 2026 17:26:11 +0000</pubDate><description>## What's new in 1.0.18&lt;br/&gt;
+- Chat pages now check that content loaded before it appears<br/>
+- Stopped chat loads no longer leave a loading placeholder behind<br/>
+- Fewer blank or stuck chat screens when a page fails to respond]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.20/Utilix-1.0.20.dmg" type="application/octet-stream" sparkle:version="202609170108" sparkle:shortVersionString="1.0.20" sparkle:edSignature="qZL6YjA0i7l4UBI1anoWC2KAoPbzGuuf+stVvPADF4s/i88IcLRse04LPL3tKvFFC78oM2Mk4qvIQFU75kY0Cg==" length="19115797" /></item><item><title>Version 1.0.19</title><pubDate>Wed, 16 Sep 2026 18:17:43 +0000</pubDate><description>## What's new in 1.0.19&lt;br/&gt;
+&lt;br/&gt;
+- Updates now install and relaunch on their own, with no manual quit needed&lt;br/&gt;
+- The app quietly takes over when a new version is ready to go&lt;br/&gt;
+- No more prompts asking you to quit before an update starts&lt;br/&gt;
+- You get back to work faster since the app restarts for you</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.19/Utilix-1.0.19.dmg" type="application/octet-stream" sparkle:version="202609162345" sparkle:shortVersionString="1.0.19" sparkle:edSignature="Upa9yiZZxZNvyN/q5azJtxtv5pd98Fd5Nx/64+4bv4I5/PnnF8LxcONGULy4x1genLr8rbKHOpDTGIZz1aVpDA==" length="19131312" /></item><item><title>Version 1.0.18</title><pubDate>Wed, 16 Sep 2026 17:26:11 +0000</pubDate><description>## What's new in 1.0.18&lt;br/&gt;
 &lt;br/&gt;
 - Permission checks now run silently, with no setup wizard to click through&lt;br/&gt;
 - Permission status shows as a simple list of rows in the app&lt;br/&gt;
