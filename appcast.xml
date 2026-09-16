@@ -6,14 +6,21 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.13</title><pubDate>Wed, 16 Sep 2026 09:25:58 +0000</pubDate><description><![CDATA[## What's new in 1.0.13<br/>
+  <item><title>Version 1.0.14</title><pubDate>Wed, 16 Sep 2026 10:33:36 +0000</pubDate><description><![CDATA[## What's new in 1.0.14<br/>
 <br/>
-- Color palette opens on its own once after you install or update<br/>
-- Palette toggle now switches on and off more reliably<br/>
-- New secure vault keeps your saved secrets encrypted on your Mac<br/>
-- Your existing vault data moves over automatically, just one time<br/>
-- You can now reset or export your vault data from inside the app<br/>
-- Install updates with a single press, then see an Updated confirmation]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.13/Utilix-1.0.13.dmg" type="application/octet-stream" sparkle:version="202609161453" sparkle:shortVersionString="1.0.13" sparkle:edSignature="yoqy9/1LI1/Ok4ZMbKZ9/NuYwkVjLwFvWhOUCZv9Ye8Rn6opz3kVVTa1rmLSshvrUdh+O0VN4njaVGvQ4U22Cg==" length="18784450" /></item><item><title>Version 1.0.12</title><pubDate>Wed, 16 Sep 2026 08:19:23 +0000</pubDate><description>## What's new in 1.0.12&lt;br/&gt;
+- New WebChat lets you chat with AI right from your menu bar<br/>
+- Switch between chat services using new brand tiles<br/>
+- Add your own access keys in the new WebChat Settings section<br/>
+- Upload files in chat and get clear messages if something fails<br/>
+- The chat window now opens and closes with a smooth fade<br/>
+- Fixed a bug that could save your chat history twice]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.14/Utilix-1.0.14.dmg" type="application/octet-stream" sparkle:version="202609161601" sparkle:shortVersionString="1.0.14" sparkle:edSignature="XinMmygQrtgAswejPfXsfZgZ7Jx1AmNLrEjW52+m/yWEU4NTYvri9O1OIcuOCC6tOn1SJz2TFGl9s25dEGXCDQ==" length="19055489" /></item><item><title>Version 1.0.13</title><pubDate>Wed, 16 Sep 2026 09:25:58 +0000</pubDate><description>## What's new in 1.0.13&lt;br/&gt;
+&lt;br/&gt;
+- Color palette opens on its own once after you install or update&lt;br/&gt;
+- Palette toggle now switches on and off more reliably&lt;br/&gt;
+- New secure vault keeps your saved secrets encrypted on your Mac&lt;br/&gt;
+- Your existing vault data moves over automatically, just one time&lt;br/&gt;
+- You can now reset or export your vault data from inside the app&lt;br/&gt;
+- Install updates with a single press, then see an Updated confirmation</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.13/Utilix-1.0.13.dmg" type="application/octet-stream" sparkle:version="202609161453" sparkle:shortVersionString="1.0.13" sparkle:edSignature="yoqy9/1LI1/Ok4ZMbKZ9/NuYwkVjLwFvWhOUCZv9Ye8Rn6opz3kVVTa1rmLSshvrUdh+O0VN4njaVGvQ4U22Cg==" length="18784450" /></item><item><title>Version 1.0.12</title><pubDate>Wed, 16 Sep 2026 08:19:23 +0000</pubDate><description>## What's new in 1.0.12&lt;br/&gt;
 &lt;br/&gt;
 - Calendar shows a 7-day glance with day groups and countdowns&lt;br/&gt;
 - Translate adds a formality picker and an editable glossary&lt;br/&gt;
