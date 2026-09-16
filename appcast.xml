@@ -6,13 +6,18 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.16</title><pubDate>Wed, 16 Sep 2026 12:24:16 +0000</pubDate><description><![CDATA[## What's new in 1.0.16<br/>
+  <item><title>Version 1.0.17</title><pubDate>Wed, 16 Sep 2026 16:28:23 +0000</pubDate><description><![CDATA[## What's new in 1.0.17<br/>
 <br/>
-- Security checks in WebChat now stay inside the app window<br/>
-- Fixed WebChat getting stuck on the Loading screen<br/>
-- You can now add your own custom sites to WebChat<br/>
-- Long site names in the WebChat list are no longer cut off<br/>
-- Added a refresh button so you can reload WebChat pages]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.16/Utilix-1.0.16.dmg" type="application/octet-stream" sparkle:version="202609161750" sparkle:shortVersionString="1.0.16" sparkle:edSignature="l824sYOXHV7qdoOjasZXhraoF9eOye7gu4ascKEi7Y92oKcShZGcAkyLwzbNin1TIy9IxJHY4MgAGtPFi5miAA==" length="19231180" /></item><item><title>Version 1.0.15</title><pubDate>Wed, 16 Sep 2026 11:03:24 +0000</pubDate><description>## What's new in 1.0.15&lt;br/&gt;
+- Background update checks now tell you what happened every time.<br/>
+- If an update fails, Utilix quietly tries again on its own.<br/>
+- Retries are limited, so the app will not keep trying forever.<br/>
+- Fixed a case where an update could be missed after 1.0.16.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.17/Utilix-1.0.17.dmg" type="application/octet-stream" sparkle:version="202609162155" sparkle:shortVersionString="1.0.17" sparkle:edSignature="MgCgjPBez7PQN+w2zw2HttxS4AR+Ro/swCt5X75uA25evd3Zx2CRO+MEnrT+5liZJ7CAdCHcGFB3lfymAHSLDw==" length="19245146" /></item><item><title>Version 1.0.16</title><pubDate>Wed, 16 Sep 2026 12:24:16 +0000</pubDate><description>## What's new in 1.0.16&lt;br/&gt;
+&lt;br/&gt;
+- Security checks in WebChat now stay inside the app window&lt;br/&gt;
+- Fixed WebChat getting stuck on the Loading screen&lt;br/&gt;
+- You can now add your own custom sites to WebChat&lt;br/&gt;
+- Long site names in the WebChat list are no longer cut off&lt;br/&gt;
+- Added a refresh button so you can reload WebChat pages</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.16/Utilix-1.0.16.dmg" type="application/octet-stream" sparkle:version="202609161750" sparkle:shortVersionString="1.0.16" sparkle:edSignature="l824sYOXHV7qdoOjasZXhraoF9eOye7gu4ascKEi7Y92oKcShZGcAkyLwzbNin1TIy9IxJHY4MgAGtPFi5miAA==" length="19231180" /></item><item><title>Version 1.0.15</title><pubDate>Wed, 16 Sep 2026 11:03:24 +0000</pubDate><description>## What's new in 1.0.15&lt;br/&gt;
 &lt;br/&gt;
 - The chat window now has a slider across the top for quick adjustments.&lt;br/&gt;
 - A new icon rail puts the main chat tools within easy reach.&lt;br/&gt;
