@@ -8,4 +8,4 @@ Welcome to the Utilix community docs. Start here:
 - Troubleshooting: `troubleshooting.md`
 - FAQ: `faq.md`
 - Release Notes: `../release-notes/`
-- Website: [macbunny.co/utilix](https://macbunny.co/utilix) 
+- Website: [itch.io](https://bunnysayzz.itch.io/utilix) 

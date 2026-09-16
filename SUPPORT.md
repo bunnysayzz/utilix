@@ -19,5 +19,5 @@ If you need help with Utilix:
 - Do not open public issues for vulnerabilities. See `SECURITY.md` for private reporting instructions.
 
 ## Contact
-- Website: http://macbunny.co/utilix
+- Website: https://bunnysayzz.itch.io/utilix
 - Email: stfuazzo@gmail.com 

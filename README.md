@@ -1,9 +1,9 @@
-# Utilix — Community Repository
+# Utilix: Community Repository
 
 This is the public, community-facing repository for Utilix. The app itself is closed‑source; this repository is for documentation, releases, issue tracking, and community discussions only. There is no application source code in this repo.
 
 ## What is Utilix?
-Utilix is a lightweight macOS menu bar app that bundles everyday utilities into one place: a ⌘Space command palette, a menu-bar dropdown, and a right-click status menu — with optional AI chat (bring your own API key) and automatic in-app updates.
+Utilix is a lightweight macOS menu bar app that bundles everyday utilities into one place: a ⌘Space command palette, a menu-bar dropdown, and a right-click status menu, with optional AI chat (bring your own API key) and automatic in-app updates.
 
 ## Features
 - Command Palette (⌘Space): Search commands, apps, and settings from anywhere
@@ -50,30 +50,11 @@ Utilix is a lightweight macOS menu bar app that bundles everyday utilities into 
 
 ![Preferences](assets/screenshots/preferences.png)
 
-### Older Screenshots
-
-![Interface](assets/screenshots/interface.png)
-
-| General | Utilities |
-| --- | --- |
-| ![General](assets/screenshots/general.png) | ![Utilities](assets/screenshots/utilities.png) |
-
-| Shortcuts | Snippets |
-| --- | --- |
-| ![Shortcuts](assets/screenshots/shortcuts.png) | ![Snippets](assets/screenshots/snippets.png) |
-
-| Desktop Switch | Permissions |
-| --- | --- |
-| ![Desktop Switch](assets/screenshots/desktopswitch.png) | ![Permissions](assets/screenshots/permissions.png) |
-
-| About |
-| --- |
-| ![About](assets/screenshots/about.png) |
 ## Download
 
 - Go to this repository’s Releases page and download the latest `.dmg` installer.
 - One Universal build runs on both Apple Silicon and Intel Macs.
-- Or visit [macbunny.co/utilix](https://macbunny.co/utilix) for the latest version.
+- Or get it on [itch.io](https://bunnysayzz.itch.io/utilix).
 
 ## Updates
 
@@ -108,7 +89,7 @@ The optional AI Chat sends only what you type to the provider you configured, us
 ## Support & Community
 - Open a Bug Report or Feature Request from the Issues tab (templates provided).
 - Full docs: [`docs/`](docs/) (start at [`docs/getting-started.md`](docs/getting-started.md)).
-- For general info and updates, see the website: [macbunny.co/utilix](https://macbunny.co/utilix)
+- For general info and updates, see the [itch.io page](https://bunnysayzz.itch.io/utilix)
 - Contact: [stfuazzo@gmail.com](mailto:stfuazzo@gmail.com)
 
 ## Contributing
