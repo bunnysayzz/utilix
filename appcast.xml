@@ -6,11 +6,17 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.10</title><pubDate>Tue, 15 Sep 2026 22:07:12 +0000</pubDate><description><![CDATA[## What's new in 1.0.10<br/>
+  <item><title>Version 1.0.11</title><pubDate>Wed, 16 Sep 2026 04:28:49 +0000</pubDate><description><![CDATA[## What's new in 1.0.11<br/>
 <br/>
-- Check for Updates now starts the moment you choose it.<br/>
-- No second click is needed to begin checking for updates.<br/>
-- The update check begins right away from the status menu.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.10/Utilix-1.0.10.dmg" type="application/octet-stream" sparkle:version="202609160330" sparkle:shortVersionString="1.0.10" sparkle:edSignature="7XjA5moH+2Z/yMvYXtythz+FaWmuh6MALaH4p71KBbjkSOfdWnzHpPBTqlrqWKB/sw4GwLI2yQs0g7RhgRjJBg==" length="18135709" /></item><item><title>Version 1.0.09</title><pubDate>Tue, 15 Sep 2026 21:51:21 +0000</pubDate><description>## What's new in 1.0.09&lt;br/&gt;
+- Updates download quietly in the background and remind you later<br/>
+- Install a downloaded update with one click from the menu bar<br/>
+- Clipboard history has cleaner rows and pins no longer cover text<br/>
+- The Settings window now opens in front of other apps, every time<br/>
+- Saved passwords stay protected, with a one-time sign-in check]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.11/Utilix-1.0.11.dmg" type="application/octet-stream" sparkle:version="202609160956" sparkle:shortVersionString="1.0.11" sparkle:edSignature="IzTsuLy1u0qTaZ5fhEavx9gAHhorQvg/9jTr2R1aJUxOsO4bZlVRuvQreypzMHQxkU4CG3c7qDo7pcLiQ7ouBQ==" length="18188959" /></item><item><title>Version 1.0.10</title><pubDate>Tue, 15 Sep 2026 22:07:12 +0000</pubDate><description>## What's new in 1.0.10&lt;br/&gt;
+&lt;br/&gt;
+- Check for Updates now starts the moment you choose it.&lt;br/&gt;
+- No second click is needed to begin checking for updates.&lt;br/&gt;
+- The update check begins right away from the status menu.</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.10/Utilix-1.0.10.dmg" type="application/octet-stream" sparkle:version="202609160330" sparkle:shortVersionString="1.0.10" sparkle:edSignature="7XjA5moH+2Z/yMvYXtythz+FaWmuh6MALaH4p71KBbjkSOfdWnzHpPBTqlrqWKB/sw4GwLI2yQs0g7RhgRjJBg==" length="18135709" /></item><item><title>Version 1.0.09</title><pubDate>Tue, 15 Sep 2026 21:51:21 +0000</pubDate><description>## What's new in 1.0.09&lt;br/&gt;
 &lt;br/&gt;
 - The status menu now opens neatly centered under the menu bar icon&lt;br/&gt;
 - Software update checks now live in one place in the About window&lt;br/&gt;
