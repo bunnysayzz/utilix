@@ -6,14 +6,19 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.14</title><pubDate>Wed, 16 Sep 2026 10:33:36 +0000</pubDate><description><![CDATA[## What's new in 1.0.14<br/>
+  <item><title>Version 1.0.15</title><pubDate>Wed, 16 Sep 2026 11:03:24 +0000</pubDate><description><![CDATA[## What's new in 1.0.15<br/>
 <br/>
-- New WebChat lets you chat with AI right from your menu bar<br/>
-- Switch between chat services using new brand tiles<br/>
-- Add your own access keys in the new WebChat Settings section<br/>
-- Upload files in chat and get clear messages if something fails<br/>
-- The chat window now opens and closes with a smooth fade<br/>
-- Fixed a bug that could save your chat history twice]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.14/Utilix-1.0.14.dmg" type="application/octet-stream" sparkle:version="202609161601" sparkle:shortVersionString="1.0.14" sparkle:edSignature="XinMmygQrtgAswejPfXsfZgZ7Jx1AmNLrEjW52+m/yWEU4NTYvri9O1OIcuOCC6tOn1SJz2TFGl9s25dEGXCDQ==" length="19055489" /></item><item><title>Version 1.0.13</title><pubDate>Wed, 16 Sep 2026 09:25:58 +0000</pubDate><description>## What's new in 1.0.13&lt;br/&gt;
+- The chat window now has a slider across the top for quick adjustments.<br/>
+- A new icon rail puts the main chat tools within easy reach.<br/>
+- Chats open faster after the app has been idle, thanks to warm loading.<br/>
+- You can now cancel a message with a single click on its icon.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.15/Utilix-1.0.15.dmg" type="application/octet-stream" sparkle:version="202609161630" sparkle:shortVersionString="1.0.15" sparkle:edSignature="Gubb155H0jqWptTcHVpRh6AY+K/xVrfrSWrhAZHJ4tQ1oOP49jUvUvMoNbyq9/OU3/swbW1p1ebnQ/duZyFNCg==" length="19062127" /></item><item><title>Version 1.0.14</title><pubDate>Wed, 16 Sep 2026 10:33:36 +0000</pubDate><description>## What's new in 1.0.14&lt;br/&gt;
+&lt;br/&gt;
+- New WebChat lets you chat with AI right from your menu bar&lt;br/&gt;
+- Switch between chat services using new brand tiles&lt;br/&gt;
+- Add your own access keys in the new WebChat Settings section&lt;br/&gt;
+- Upload files in chat and get clear messages if something fails&lt;br/&gt;
+- The chat window now opens and closes with a smooth fade&lt;br/&gt;
+- Fixed a bug that could save your chat history twice</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.14/Utilix-1.0.14.dmg" type="application/octet-stream" sparkle:version="202609161601" sparkle:shortVersionString="1.0.14" sparkle:edSignature="XinMmygQrtgAswejPfXsfZgZ7Jx1AmNLrEjW52+m/yWEU4NTYvri9O1OIcuOCC6tOn1SJz2TFGl9s25dEGXCDQ==" length="19055489" /></item><item><title>Version 1.0.13</title><pubDate>Wed, 16 Sep 2026 09:25:58 +0000</pubDate><description>## What's new in 1.0.13&lt;br/&gt;
 &lt;br/&gt;
 - Color palette opens on its own once after you install or update&lt;br/&gt;
 - Palette toggle now switches on and off more reliably&lt;br/&gt;
