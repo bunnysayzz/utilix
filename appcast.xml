@@ -6,12 +6,18 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.15</title><pubDate>Wed, 16 Sep 2026 11:03:24 +0000</pubDate><description><![CDATA[## What's new in 1.0.15<br/>
+  <item><title>Version 1.0.16</title><pubDate>Wed, 16 Sep 2026 12:24:16 +0000</pubDate><description><![CDATA[## What's new in 1.0.16<br/>
 <br/>
-- The chat window now has a slider across the top for quick adjustments.<br/>
-- A new icon rail puts the main chat tools within easy reach.<br/>
-- Chats open faster after the app has been idle, thanks to warm loading.<br/>
-- You can now cancel a message with a single click on its icon.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.15/Utilix-1.0.15.dmg" type="application/octet-stream" sparkle:version="202609161630" sparkle:shortVersionString="1.0.15" sparkle:edSignature="Gubb155H0jqWptTcHVpRh6AY+K/xVrfrSWrhAZHJ4tQ1oOP49jUvUvMoNbyq9/OU3/swbW1p1ebnQ/duZyFNCg==" length="19062127" /></item><item><title>Version 1.0.14</title><pubDate>Wed, 16 Sep 2026 10:33:36 +0000</pubDate><description>## What's new in 1.0.14&lt;br/&gt;
+- Security checks in WebChat now stay inside the app window<br/>
+- Fixed WebChat getting stuck on the Loading screen<br/>
+- You can now add your own custom sites to WebChat<br/>
+- Long site names in the WebChat list are no longer cut off<br/>
+- Added a refresh button so you can reload WebChat pages]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.16/Utilix-1.0.16.dmg" type="application/octet-stream" sparkle:version="202609161750" sparkle:shortVersionString="1.0.16" sparkle:edSignature="l824sYOXHV7qdoOjasZXhraoF9eOye7gu4ascKEi7Y92oKcShZGcAkyLwzbNin1TIy9IxJHY4MgAGtPFi5miAA==" length="19231180" /></item><item><title>Version 1.0.15</title><pubDate>Wed, 16 Sep 2026 11:03:24 +0000</pubDate><description>## What's new in 1.0.15&lt;br/&gt;
+&lt;br/&gt;
+- The chat window now has a slider across the top for quick adjustments.&lt;br/&gt;
+- A new icon rail puts the main chat tools within easy reach.&lt;br/&gt;
+- Chats open faster after the app has been idle, thanks to warm loading.&lt;br/&gt;
+- You can now cancel a message with a single click on its icon.</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.15/Utilix-1.0.15.dmg" type="application/octet-stream" sparkle:version="202609161630" sparkle:shortVersionString="1.0.15" sparkle:edSignature="Gubb155H0jqWptTcHVpRh6AY+K/xVrfrSWrhAZHJ4tQ1oOP49jUvUvMoNbyq9/OU3/swbW1p1ebnQ/duZyFNCg==" length="19062127" /></item><item><title>Version 1.0.14</title><pubDate>Wed, 16 Sep 2026 10:33:36 +0000</pubDate><description>## What's new in 1.0.14&lt;br/&gt;
 &lt;br/&gt;
 - New WebChat lets you chat with AI right from your menu bar&lt;br/&gt;
 - Switch between chat services using new brand tiles&lt;br/&gt;
