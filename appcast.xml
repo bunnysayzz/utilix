@@ -6,14 +6,21 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.12</title><pubDate>Wed, 16 Sep 2026 08:19:23 +0000</pubDate><description><![CDATA[## What's new in 1.0.12<br/>
+  <item><title>Version 1.0.13</title><pubDate>Wed, 16 Sep 2026 09:25:58 +0000</pubDate><description><![CDATA[## What's new in 1.0.13<br/>
 <br/>
-- Calendar shows a 7-day glance with day groups and countdowns<br/>
-- Translate adds a formality picker and an editable glossary<br/>
-- Emoji picker now remembers your recents and favorites<br/>
-- Vision text cleanup toggles are now wired up<br/>
-- Send-to drafts jump straight to the right pane<br/>
-- Update errors offer Retry instead of saying you're up to date]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.12/Utilix-1.0.12.dmg" type="application/octet-stream" sparkle:version="202609161347" sparkle:shortVersionString="1.0.12" sparkle:edSignature="aGOzJZiecN2sH53Z0oTf1+XfbmmDHjP+h+2twcT8y/fl57q1Ayf9fIhBB8FBATTx5U2APvyZ5QvG481/a1pMAg==" length="18730652" /></item><item><title>Version 1.0.11</title><pubDate>Wed, 16 Sep 2026 04:28:49 +0000</pubDate><description>## What's new in 1.0.11&lt;br/&gt;
+- Color palette opens on its own once after you install or update<br/>
+- Palette toggle now switches on and off more reliably<br/>
+- New secure vault keeps your saved secrets encrypted on your Mac<br/>
+- Your existing vault data moves over automatically, just one time<br/>
+- You can now reset or export your vault data from inside the app<br/>
+- Install updates with a single press, then see an Updated confirmation]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.13/Utilix-1.0.13.dmg" type="application/octet-stream" sparkle:version="202609161453" sparkle:shortVersionString="1.0.13" sparkle:edSignature="yoqy9/1LI1/Ok4ZMbKZ9/NuYwkVjLwFvWhOUCZv9Ye8Rn6opz3kVVTa1rmLSshvrUdh+O0VN4njaVGvQ4U22Cg==" length="18784450" /></item><item><title>Version 1.0.12</title><pubDate>Wed, 16 Sep 2026 08:19:23 +0000</pubDate><description>## What's new in 1.0.12&lt;br/&gt;
+&lt;br/&gt;
+- Calendar shows a 7-day glance with day groups and countdowns&lt;br/&gt;
+- Translate adds a formality picker and an editable glossary&lt;br/&gt;
+- Emoji picker now remembers your recents and favorites&lt;br/&gt;
+- Vision text cleanup toggles are now wired up&lt;br/&gt;
+- Send-to drafts jump straight to the right pane&lt;br/&gt;
+- Update errors offer Retry instead of saying you're up to date</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.12/Utilix-1.0.12.dmg" type="application/octet-stream" sparkle:version="202609161347" sparkle:shortVersionString="1.0.12" sparkle:edSignature="aGOzJZiecN2sH53Z0oTf1+XfbmmDHjP+h+2twcT8y/fl57q1Ayf9fIhBB8FBATTx5U2APvyZ5QvG481/a1pMAg==" length="18730652" /></item><item><title>Version 1.0.11</title><pubDate>Wed, 16 Sep 2026 04:28:49 +0000</pubDate><description>## What's new in 1.0.11&lt;br/&gt;
 &lt;br/&gt;
 - Updates download quietly in the background and remind you later&lt;br/&gt;
 - Install a downloaded update with one click from the menu bar&lt;br/&gt;
