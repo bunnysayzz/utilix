@@ -6,11 +6,16 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.18</title><pubDate>Wed, 16 Sep 2026 17:26:11 +0000</pubDate><description><![CDATA[## What's new in 1.0.18<br/>
+  <item><title>Version 1.0.19</title><pubDate>Wed, 16 Sep 2026 18:17:43 +0000</pubDate><description><![CDATA[## What's new in 1.0.19<br/>
 <br/>
-- Permission checks now run silently, with no setup wizard to click through<br/>
-- Permission status shows as a simple list of rows in the app<br/>
-- Fixed the About window buttons and the release notes shown there]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.18/Utilix-1.0.18.dmg" type="application/octet-stream" sparkle:version="202609162253" sparkle:shortVersionString="1.0.18" sparkle:edSignature="tYka+dtF70GUG4X7PFj+MS8T9nvKlCySfnhpzwzArplrmBffe+55VRreStFXYno7DTcpTXyZSf3YIoTM8joSCw==" length="19117251" /></item><item><title>Version 1.0.17</title><pubDate>Wed, 16 Sep 2026 16:28:23 +0000</pubDate><description>## What's new in 1.0.17&lt;br/&gt;
+- Updates now install and relaunch on their own, with no manual quit needed<br/>
+- The app quietly takes over when a new version is ready to go<br/>
+- No more prompts asking you to quit before an update starts<br/>
+- You get back to work faster since the app restarts for you]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.19/Utilix-1.0.19.dmg" type="application/octet-stream" sparkle:version="202609162345" sparkle:shortVersionString="1.0.19" sparkle:edSignature="Upa9yiZZxZNvyN/q5azJtxtv5pd98Fd5Nx/64+4bv4I5/PnnF8LxcONGULy4x1genLr8rbKHOpDTGIZz1aVpDA==" length="19131312" /></item><item><title>Version 1.0.18</title><pubDate>Wed, 16 Sep 2026 17:26:11 +0000</pubDate><description>## What's new in 1.0.18&lt;br/&gt;
+&lt;br/&gt;
+- Permission checks now run silently, with no setup wizard to click through&lt;br/&gt;
+- Permission status shows as a simple list of rows in the app&lt;br/&gt;
+- Fixed the About window buttons and the release notes shown there</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.18/Utilix-1.0.18.dmg" type="application/octet-stream" sparkle:version="202609162253" sparkle:shortVersionString="1.0.18" sparkle:edSignature="tYka+dtF70GUG4X7PFj+MS8T9nvKlCySfnhpzwzArplrmBffe+55VRreStFXYno7DTcpTXyZSf3YIoTM8joSCw==" length="19117251" /></item><item><title>Version 1.0.17</title><pubDate>Wed, 16 Sep 2026 16:28:23 +0000</pubDate><description>## What's new in 1.0.17&lt;br/&gt;
 &lt;br/&gt;
 - Background update checks now tell you what happened every time.&lt;br/&gt;
 - If an update fails, Utilix quietly tries again on its own.&lt;br/&gt;
