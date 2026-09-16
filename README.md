@@ -1,7 +1,5 @@
 # Utilix — Community Repository
 
-Website: [macbunny.co/utilix](https://macbunny.co/utilix)
-
 This is the public, community-facing repository for Utilix. The app itself is closed‑source; this repository is for documentation, releases, issue tracking, and community discussions only. There is no application source code in this repo.
 
 ## What is Utilix?
