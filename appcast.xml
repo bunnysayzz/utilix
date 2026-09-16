@@ -6,12 +6,16 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.17</title><pubDate>Wed, 16 Sep 2026 16:28:23 +0000</pubDate><description><![CDATA[## What's new in 1.0.17<br/>
+  <item><title>Version 1.0.18</title><pubDate>Wed, 16 Sep 2026 17:26:11 +0000</pubDate><description><![CDATA[## What's new in 1.0.18<br/>
 <br/>
-- Background update checks now tell you what happened every time.<br/>
-- If an update fails, Utilix quietly tries again on its own.<br/>
-- Retries are limited, so the app will not keep trying forever.<br/>
-- Fixed a case where an update could be missed after 1.0.16.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.17/Utilix-1.0.17.dmg" type="application/octet-stream" sparkle:version="202609162155" sparkle:shortVersionString="1.0.17" sparkle:edSignature="MgCgjPBez7PQN+w2zw2HttxS4AR+Ro/swCt5X75uA25evd3Zx2CRO+MEnrT+5liZJ7CAdCHcGFB3lfymAHSLDw==" length="19245146" /></item><item><title>Version 1.0.16</title><pubDate>Wed, 16 Sep 2026 12:24:16 +0000</pubDate><description>## What's new in 1.0.16&lt;br/&gt;
+- Permission checks now run silently, with no setup wizard to click through<br/>
+- Permission status shows as a simple list of rows in the app<br/>
+- Fixed the About window buttons and the release notes shown there]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.18/Utilix-1.0.18.dmg" type="application/octet-stream" sparkle:version="202609162253" sparkle:shortVersionString="1.0.18" sparkle:edSignature="tYka+dtF70GUG4X7PFj+MS8T9nvKlCySfnhpzwzArplrmBffe+55VRreStFXYno7DTcpTXyZSf3YIoTM8joSCw==" length="19117251" /></item><item><title>Version 1.0.17</title><pubDate>Wed, 16 Sep 2026 16:28:23 +0000</pubDate><description>## What's new in 1.0.17&lt;br/&gt;
+&lt;br/&gt;
+- Background update checks now tell you what happened every time.&lt;br/&gt;
+- If an update fails, Utilix quietly tries again on its own.&lt;br/&gt;
+- Retries are limited, so the app will not keep trying forever.&lt;br/&gt;
+- Fixed a case where an update could be missed after 1.0.16.</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.17/Utilix-1.0.17.dmg" type="application/octet-stream" sparkle:version="202609162155" sparkle:shortVersionString="1.0.17" sparkle:edSignature="MgCgjPBez7PQN+w2zw2HttxS4AR+Ro/swCt5X75uA25evd3Zx2CRO+MEnrT+5liZJ7CAdCHcGFB3lfymAHSLDw==" length="19245146" /></item><item><title>Version 1.0.16</title><pubDate>Wed, 16 Sep 2026 12:24:16 +0000</pubDate><description>## What's new in 1.0.16&lt;br/&gt;
 &lt;br/&gt;
 - Security checks in WebChat now stay inside the app window&lt;br/&gt;
 - Fixed WebChat getting stuck on the Loading screen&lt;br/&gt;
