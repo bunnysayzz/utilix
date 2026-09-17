@@ -6,13 +6,20 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.24</title><pubDate>Thu, 17 Sep 2026 15:46:33 +0000</pubDate><description><![CDATA[## What's new in 1.0.24<br/>
+  <item><title>Version 1.0.25</title><pubDate>Thu, 17 Sep 2026 19:56:47 +0000</pubDate><description><![CDATA[## What's new in 1.0.25<br/>
 <br/>
-- Downloads you start in web chat now save properly to your Mac<br/>
-- A finished download card now appears with a Share button<br/>
-- Save dialogs now suggest a name based on the page you came from<br/>
-- Download buttons now behave the same everywhere in web chat<br/>
-- Improved reliability when you have several downloads at once]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.24/Utilix-1.0.24.dmg" type="application/octet-stream" sparkle:version="202609172112" sparkle:shortVersionString="1.0.24" sparkle:edSignature="Z88NR2cr+FUwUSkRpRD4Vi+wKZE4kzWRMnSO9gHFoGdCX7RRYfz6InDftWpvzaBMfBvK9GK2RpzM0al+TY4wCQ==" length="19485912" /></item><item><title>Version 1.0.23</title><pubDate>Thu, 17 Sep 2026 10:39:33 +0000</pubDate><description>## What's new in 1.0.23&lt;br/&gt;
+- Send feedback to the developer without leaving Utilix.<br/>
+- Open the new form from the About card or the command palette.<br/>
+- Your report stays anonymous, with no personal details attached.<br/>
+- Duplicate reports are merged so the same issue is not filed twice.<br/>
+- A daily limit keeps feedback flowing and blocks spam.<br/>
+- After sending, you can open the issue on GitHub yourself.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.25/Utilix-1.0.25.dmg" type="application/octet-stream" sparkle:version="202609180124" sparkle:shortVersionString="1.0.25" sparkle:edSignature="t4u5wmvTv8QWOF1cAxvUHODwZGD2KCN2h6fGYO5I9pEK29bw8Nsu1+A1EMpZxVGntvtSZF+YdWtSLwGxbO0EBg==" length="19585647" /></item><item><title>Version 1.0.24</title><pubDate>Thu, 17 Sep 2026 15:46:33 +0000</pubDate><description>## What's new in 1.0.24&lt;br/&gt;
+&lt;br/&gt;
+- Downloads you start in web chat now save properly to your Mac&lt;br/&gt;
+- A finished download card now appears with a Share button&lt;br/&gt;
+- Save dialogs now suggest a name based on the page you came from&lt;br/&gt;
+- Download buttons now behave the same everywhere in web chat&lt;br/&gt;
+- Improved reliability when you have several downloads at once</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.24/Utilix-1.0.24.dmg" type="application/octet-stream" sparkle:version="202609172112" sparkle:shortVersionString="1.0.24" sparkle:edSignature="Z88NR2cr+FUwUSkRpRD4Vi+wKZE4kzWRMnSO9gHFoGdCX7RRYfz6InDftWpvzaBMfBvK9GK2RpzM0al+TY4wCQ==" length="19485912" /></item><item><title>Version 1.0.23</title><pubDate>Thu, 17 Sep 2026 10:39:33 +0000</pubDate><description>## What's new in 1.0.23&lt;br/&gt;
 &lt;br/&gt;
 - Set your own keyboard shortcut to summon Utilix, right in Settings&lt;br/&gt;
 - Menu bar items now jump straight to the tool you need, no dead ends&lt;br/&gt;
