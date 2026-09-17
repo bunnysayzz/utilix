@@ -6,14 +6,20 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.21</title><pubDate>Thu, 17 Sep 2026 06:45:56 +0000</pubDate><description><![CDATA[## What's new in 1.0.21<br/>
+  <item><title>Version 1.0.22</title><pubDate>Thu, 17 Sep 2026 07:59:00 +0000</pubDate><description><![CDATA[## What's new in 1.0.22<br/>
 <br/>
-- Error messages no longer appear on top of web pages that work fine<br/>
-- Zoom now fits the WebChat window, and your sessions stay put<br/>
-- Hovering over the chat window no longer makes it flicker<br/>
-- Downloads save to your Downloads folder instead of opening as raw text<br/>
-- You stay signed in when the app updates or when you quit<br/>
-- Background cleanup keeps WebChat quick without interrupting you]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.21/Utilix-1.0.21.dmg" type="application/octet-stream" sparkle:version="202609171212" sparkle:shortVersionString="1.0.21" sparkle:edSignature="gVdijcLxYr9Yy2fYbvbOxBqNMMjpIMv0A7V3eSkNUyKYU3zrWND0mX7t4gBZd1N9VUv7jnK2Yv/FswkQsM0ODg==" length="19118696" /></item><item><title>Version 1.0.20</title><pubDate>Wed, 16 Sep 2026 19:41:04 +0000</pubDate><description>## What's new in 1.0.20&lt;br/&gt;
+- Web chat: the plus button no longer flickers when you hover over it<br/>
+- Web chat: signing in now happens right inside the chat panel<br/>
+- Web chat: the panel now resizes to fit your zoom level<br/>
+- Web chat: dialogs stay neatly inside the panel instead of spilling out<br/>
+- Web chat: the sign-in window now matches your zoom setting]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.22/Utilix-1.0.22.dmg" type="application/octet-stream" sparkle:version="202609171326" sparkle:shortVersionString="1.0.22" sparkle:edSignature="ysTIxkkhmGqWudPFzQGMrdiVQIhBnEyQR74z0pHZGYR7RtO1xSwo/9VG0pA7WCF/BV4R8qyt6K3Lk42+srotCA==" length="19116920" /></item><item><title>Version 1.0.21</title><pubDate>Thu, 17 Sep 2026 06:45:56 +0000</pubDate><description>## What's new in 1.0.21&lt;br/&gt;
+&lt;br/&gt;
+- Error messages no longer appear on top of web pages that work fine&lt;br/&gt;
+- Zoom now fits the WebChat window, and your sessions stay put&lt;br/&gt;
+- Hovering over the chat window no longer makes it flicker&lt;br/&gt;
+- Downloads save to your Downloads folder instead of opening as raw text&lt;br/&gt;
+- You stay signed in when the app updates or when you quit&lt;br/&gt;
+- Background cleanup keeps WebChat quick without interrupting you</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.21/Utilix-1.0.21.dmg" type="application/octet-stream" sparkle:version="202609171212" sparkle:shortVersionString="1.0.21" sparkle:edSignature="gVdijcLxYr9Yy2fYbvbOxBqNMMjpIMv0A7V3eSkNUyKYU3zrWND0mX7t4gBZd1N9VUv7jnK2Yv/FswkQsM0ODg==" length="19118696" /></item><item><title>Version 1.0.20</title><pubDate>Wed, 16 Sep 2026 19:41:04 +0000</pubDate><description>## What's new in 1.0.20&lt;br/&gt;
 &lt;br/&gt;
 - Chat pages now check that content loaded before it appears&lt;br/&gt;
 - Stopped chat loads no longer leave a loading placeholder behind&lt;br/&gt;
