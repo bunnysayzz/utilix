@@ -32,6 +32,7 @@ Utilix is a lightweight macOS menu bar app that bundles everyday utilities into 
 - Empty Trash: Empty the Trash quickly
 - Desktop Switch: Clickable glowing edges to switch macOS desktops
 - AI Chat: Optional assistant with tools (bring your own API key)
+- Web AI: ChatGPT, Gemini, Grok & more inside the app, no API key needed
 - Keyboard Shortcuts: Optional global shortcuts (e.g., Mac Vision via ⌥+X)
 - Launch at Login and Notifications toggles
 - What's New: The palette shows release highlights once per version
@@ -43,6 +44,8 @@ Utilix is a lightweight macOS menu bar app that bundles everyday utilities into 
 ![Command palette with utilities](assets/screenshots/palette.png)
 
 ![AI chat](assets/screenshots/ai-chat.png)
+
+![Web AI — provider sites in-app, no API key](assets/screenshots/web-ai.png)
 
 ### Menu Bar & Preferences
 
