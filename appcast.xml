@@ -6,14 +6,20 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.25</title><pubDate>Thu, 17 Sep 2026 19:56:47 +0000</pubDate><description><![CDATA[## What's new in 1.0.25<br/>
+  <item><title>Version 1.0.26</title><pubDate>Thu, 17 Sep 2026 21:04:57 +0000</pubDate><description><![CDATA[## What's new in 1.0.26<br/>
 <br/>
-- Send feedback to the developer without leaving Utilix.<br/>
-- Open the new form from the About card or the command palette.<br/>
-- Your report stays anonymous, with no personal details attached.<br/>
-- Duplicate reports are merged so the same issue is not filed twice.<br/>
-- A daily limit keeps feedback flowing and blocks spam.<br/>
-- After sending, you can open the issue on GitHub yourself.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.25/Utilix-1.0.25.dmg" type="application/octet-stream" sparkle:version="202609180124" sparkle:shortVersionString="1.0.25" sparkle:edSignature="t4u5wmvTv8QWOF1cAxvUHODwZGD2KCN2h6fGYO5I9pEK29bw8Nsu1+A1EMpZxVGntvtSZF+YdWtSLwGxbO0EBg==" length="19585647" /></item><item><title>Version 1.0.24</title><pubDate>Thu, 17 Sep 2026 15:46:33 +0000</pubDate><description>## What's new in 1.0.24&lt;br/&gt;
+- Send feedback faster with a new bug button in the footer<br/>
+- Feedback reports now include your Mac model, memory, and last check time<br/>
+- The About window now shows updates in one simple popover<br/>
+- Check Again now confirms when you are already up to date<br/>
+- The feedback keyboard shortcut now works from anywhere in the app]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.26/Utilix-1.0.26.dmg" type="application/octet-stream" sparkle:version="202609180231" sparkle:shortVersionString="1.0.26" sparkle:edSignature="ijuHnZldfbNy+g5MgJ83KMloZm3fJcah+9Fiso1yZAK+JltUQur6unjp4J4Pafi/bhy0t2OOs0SrXUGO5SmQAg==" length="19658092" /></item><item><title>Version 1.0.25</title><pubDate>Thu, 17 Sep 2026 19:56:47 +0000</pubDate><description>## What's new in 1.0.25&lt;br/&gt;
+&lt;br/&gt;
+- Send feedback to the developer without leaving Utilix.&lt;br/&gt;
+- Open the new form from the About card or the command palette.&lt;br/&gt;
+- Your report stays anonymous, with no personal details attached.&lt;br/&gt;
+- Duplicate reports are merged so the same issue is not filed twice.&lt;br/&gt;
+- A daily limit keeps feedback flowing and blocks spam.&lt;br/&gt;
+- After sending, you can open the issue on GitHub yourself.</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.25/Utilix-1.0.25.dmg" type="application/octet-stream" sparkle:version="202609180124" sparkle:shortVersionString="1.0.25" sparkle:edSignature="t4u5wmvTv8QWOF1cAxvUHODwZGD2KCN2h6fGYO5I9pEK29bw8Nsu1+A1EMpZxVGntvtSZF+YdWtSLwGxbO0EBg==" length="19585647" /></item><item><title>Version 1.0.24</title><pubDate>Thu, 17 Sep 2026 15:46:33 +0000</pubDate><description>## What's new in 1.0.24&lt;br/&gt;
 &lt;br/&gt;
 - Downloads you start in web chat now save properly to your Mac&lt;br/&gt;
 - A finished download card now appears with a Share button&lt;br/&gt;
