@@ -6,13 +6,20 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.22</title><pubDate>Thu, 17 Sep 2026 07:59:00 +0000</pubDate><description><![CDATA[## What's new in 1.0.22<br/>
+  <item><title>Version 1.0.23</title><pubDate>Thu, 17 Sep 2026 10:39:33 +0000</pubDate><description><![CDATA[## What's new in 1.0.23<br/>
 <br/>
-- Web chat: the plus button no longer flickers when you hover over it<br/>
-- Web chat: signing in now happens right inside the chat panel<br/>
-- Web chat: the panel now resizes to fit your zoom level<br/>
-- Web chat: dialogs stay neatly inside the panel instead of spilling out<br/>
-- Web chat: the sign-in window now matches your zoom setting]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.22/Utilix-1.0.22.dmg" type="application/octet-stream" sparkle:version="202609171326" sparkle:shortVersionString="1.0.22" sparkle:edSignature="ysTIxkkhmGqWudPFzQGMrdiVQIhBnEyQR74z0pHZGYR7RtO1xSwo/9VG0pA7WCF/BV4R8qyt6K3Lk42+srotCA==" length="19116920" /></item><item><title>Version 1.0.21</title><pubDate>Thu, 17 Sep 2026 06:45:56 +0000</pubDate><description>## What's new in 1.0.21&lt;br/&gt;
+- Set your own keyboard shortcut to summon Utilix, right in Settings<br/>
+- Menu bar items now jump straight to the tool you need, no dead ends<br/>
+- Better VoiceOver labels, larger text, and roomier click targets<br/>
+- Fresh look: cards adapt to your setup and tiles stay clean and flat<br/>
+- Imports no longer risk wiping your data, and Stop acts right away<br/>
+- Staying awake is capped at 24 hours and tidies up after a crash]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.23/Utilix-1.0.23.dmg" type="application/octet-stream" sparkle:version="202609171606" sparkle:shortVersionString="1.0.23" sparkle:edSignature="kbrrQNpQJtiBypCOjrvmioc4ToafXS0iVaYZsnXj/H6hRpeC1Y3+rf9SrEwt4obm2WBTQxh6qZmlMxuS5wTpAA==" length="19338998" /></item><item><title>Version 1.0.22</title><pubDate>Thu, 17 Sep 2026 07:59:00 +0000</pubDate><description>## What's new in 1.0.22&lt;br/&gt;
+&lt;br/&gt;
+- Web chat: the plus button no longer flickers when you hover over it&lt;br/&gt;
+- Web chat: signing in now happens right inside the chat panel&lt;br/&gt;
+- Web chat: the panel now resizes to fit your zoom level&lt;br/&gt;
+- Web chat: dialogs stay neatly inside the panel instead of spilling out&lt;br/&gt;
+- Web chat: the sign-in window now matches your zoom setting</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.22/Utilix-1.0.22.dmg" type="application/octet-stream" sparkle:version="202609171326" sparkle:shortVersionString="1.0.22" sparkle:edSignature="ysTIxkkhmGqWudPFzQGMrdiVQIhBnEyQR74z0pHZGYR7RtO1xSwo/9VG0pA7WCF/BV4R8qyt6K3Lk42+srotCA==" length="19116920" /></item><item><title>Version 1.0.21</title><pubDate>Thu, 17 Sep 2026 06:45:56 +0000</pubDate><description>## What's new in 1.0.21&lt;br/&gt;
 &lt;br/&gt;
 - Error messages no longer appear on top of web pages that work fine&lt;br/&gt;
 - Zoom now fits the WebChat window, and your sessions stay put&lt;br/&gt;
