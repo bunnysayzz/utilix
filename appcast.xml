@@ -6,13 +6,20 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.27</title><pubDate>Thu, 17 Sep 2026 21:39:37 +0000</pubDate><description><![CDATA[## What's new in 1.0.27<br/>
+  <item><title>Version 1.0.28</title><pubDate>Fri, 18 Sep 2026 05:41:16 +0000</pubDate><description><![CDATA[## What's new in 1.0.28<br/>
 <br/>
-- Clipboard history scrolling is now much smoother, even with lots of items<br/>
-- Scrolling no longer stutters when hovering over saved clipboard items<br/>
-- Copying a clipboard item while scrolling feels faster and more responsive<br/>
-- Search results in your clipboard history now appear more quickly<br/>
-- Clipboard history uses less memory when you keep many saved items]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.27/Utilix-1.0.27.dmg" type="application/octet-stream" sparkle:version="202609180306" sparkle:shortVersionString="1.0.27" sparkle:edSignature="ZzHcyewsiTaL2YVEvMVSt6IuL0rsB53j28EDxNYbPgVdWOHY1TWe2mBSh8HbyBmtwNWorPp9yEGdi0dZzug2Dw==" length="19668734" /></item><item><title>Version 1.0.26</title><pubDate>Thu, 17 Sep 2026 21:04:57 +0000</pubDate><description>## What's new in 1.0.26&lt;br/&gt;
+- See your country's public holidays in a rolling week strip<br/>
+- Updates now install automatically by default for everyone<br/>
+- Utilix can start at login and keeps asking until you say yes<br/>
+- Settings now appears on the desktop Space you called it from<br/>
+- Clipboard menu rows are simpler, with one clear line each<br/>
+- Switching your default browser now shows an honest result]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.28/Utilix-1.0.28.dmg" type="application/octet-stream" sparkle:version="202609181108" sparkle:shortVersionString="1.0.28" sparkle:edSignature="u2zs9PXNT321JSRF4B9dlfKUmt8p9kP0gTwY2DE3Z+5XESD4I7lNsmRB64upbDiHeYcp3LpThxCjazR2d3rrBQ==" length="19826993" /></item><item><title>Version 1.0.27</title><pubDate>Thu, 17 Sep 2026 21:39:37 +0000</pubDate><description>## What's new in 1.0.27&lt;br/&gt;
+&lt;br/&gt;
+- Clipboard history scrolling is now much smoother, even with lots of items&lt;br/&gt;
+- Scrolling no longer stutters when hovering over saved clipboard items&lt;br/&gt;
+- Copying a clipboard item while scrolling feels faster and more responsive&lt;br/&gt;
+- Search results in your clipboard history now appear more quickly&lt;br/&gt;
+- Clipboard history uses less memory when you keep many saved items</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.27/Utilix-1.0.27.dmg" type="application/octet-stream" sparkle:version="202609180306" sparkle:shortVersionString="1.0.27" sparkle:edSignature="ZzHcyewsiTaL2YVEvMVSt6IuL0rsB53j28EDxNYbPgVdWOHY1TWe2mBSh8HbyBmtwNWorPp9yEGdi0dZzug2Dw==" length="19668734" /></item><item><title>Version 1.0.26</title><pubDate>Thu, 17 Sep 2026 21:04:57 +0000</pubDate><description>## What's new in 1.0.26&lt;br/&gt;
 &lt;br/&gt;
 - Send feedback faster with a new bug button in the footer&lt;br/&gt;
 - Feedback reports now include your Mac model, memory, and last check time&lt;br/&gt;
