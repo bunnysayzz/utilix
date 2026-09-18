@@ -6,13 +6,17 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.31</title><pubDate>Fri, 18 Sep 2026 08:51:10 +0000</pubDate><description><![CDATA[## What's new in 1.0.31<br/>
+  <item><title>Version 1.0.32</title><pubDate>Fri, 18 Sep 2026 09:30:57 +0000</pubDate><description><![CDATA[## What's new in 1.0.32<br/>
 <br/>
-- Desktop Switch now starts off, and all global shortcuts are on by default<br/>
-- Permissions tab now shows live status and a clear trust badge<br/>
-- Screen OCR region capture is sharper with no blurry upscaling<br/>
-- Canceling an OCR capture now clears the overlay right away<br/>
-- More window snap positions now respond when you use their shortcuts]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.31/Utilix-1.0.31.dmg" type="application/octet-stream" sparkle:version="202609181417" sparkle:shortVersionString="1.0.31" sparkle:edSignature="iELpZV2SIFvBDTP+SmX53ErpSTAshuS18uRLqCD7v9EBVGma10ai6gaMaVQTf2bR1TQHgWTw8GvnKJQFI8ASCw==" length="21719395" /></item><item><title>Version 1.0.30</title><pubDate>Fri, 18 Sep 2026 07:24:21 +0000</pubDate><description>## What's new in 1.0.30&lt;br/&gt;
+- Web chat is now turned on for you from the very first launch<br/>
+- No extra steps needed to start chatting after a fresh install<br/>
+- You can still turn web chat off at any time in the settings]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.32/Utilix-1.0.32.dmg" type="application/octet-stream" sparkle:version="202609181457" sparkle:shortVersionString="1.0.32" sparkle:edSignature="CN3QyT9zpcyKlwJckDIZ/FK1I67EVxN3FlZOwMq8Ewcp7rdflJE+2WzH7YtWYIXJhE8NollqSygM8/fUE93wCw==" length="21721497" /></item><item><title>Version 1.0.31</title><pubDate>Fri, 18 Sep 2026 08:51:10 +0000</pubDate><description>## What's new in 1.0.31&lt;br/&gt;
+&lt;br/&gt;
+- Desktop Switch now starts off, and all global shortcuts are on by default&lt;br/&gt;
+- Permissions tab now shows live status and a clear trust badge&lt;br/&gt;
+- Screen OCR region capture is sharper with no blurry upscaling&lt;br/&gt;
+- Canceling an OCR capture now clears the overlay right away&lt;br/&gt;
+- More window snap positions now respond when you use their shortcuts</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.31/Utilix-1.0.31.dmg" type="application/octet-stream" sparkle:version="202609181417" sparkle:shortVersionString="1.0.31" sparkle:edSignature="iELpZV2SIFvBDTP+SmX53ErpSTAshuS18uRLqCD7v9EBVGma10ai6gaMaVQTf2bR1TQHgWTw8GvnKJQFI8ASCw==" length="21719395" /></item><item><title>Version 1.0.30</title><pubDate>Fri, 18 Sep 2026 07:24:21 +0000</pubDate><description>## What's new in 1.0.30&lt;br/&gt;
 &lt;br/&gt;
 - Desktop Switch now works on every screen, and clicks reach its panel&lt;br/&gt;
 - The palette opens by itself each time you launch, if you turned it on&lt;br/&gt;
