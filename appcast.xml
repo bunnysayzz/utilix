@@ -6,14 +6,20 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.30</title><pubDate>Fri, 18 Sep 2026 07:24:21 +0000</pubDate><description><![CDATA[## What's new in 1.0.30<br/>
+  <item><title>Version 1.0.31</title><pubDate>Fri, 18 Sep 2026 08:51:10 +0000</pubDate><description><![CDATA[## What's new in 1.0.31<br/>
 <br/>
-- Desktop Switch now works on every screen, and clicks reach its panel<br/>
-- The palette opens by itself each time you launch, if you turned it on<br/>
-- Permissions are now requested only the first time you use a feature<br/>
-- Calendar reminders no longer trigger a permission prompt<br/>
-- Chat storage sizes are now calculated correctly<br/>
-- On a fresh install everything is on except Calendar, and the menu fits]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.30/Utilix-1.0.30.dmg" type="application/octet-stream" sparkle:version="202609181250" sparkle:shortVersionString="1.0.30" sparkle:edSignature="6GYdwO3ENa2uz62DNf05MNrjxMvuG6Gto4H4Jt6feeGmrs8+jrXh2Kzt0zDfVAARglwDE3zP9mdT7dxaIhPQBg==" length="21727267" /></item><item><title>Version 1.0.29</title><pubDate>Fri, 18 Sep 2026 06:03:30 +0000</pubDate><description>## What's new in 1.0.29&lt;br/&gt;
+- Desktop Switch now starts off, and all global shortcuts are on by default<br/>
+- Permissions tab now shows live status and a clear trust badge<br/>
+- Screen OCR region capture is sharper with no blurry upscaling<br/>
+- Canceling an OCR capture now clears the overlay right away<br/>
+- More window snap positions now respond when you use their shortcuts]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.31/Utilix-1.0.31.dmg" type="application/octet-stream" sparkle:version="202609181417" sparkle:shortVersionString="1.0.31" sparkle:edSignature="iELpZV2SIFvBDTP+SmX53ErpSTAshuS18uRLqCD7v9EBVGma10ai6gaMaVQTf2bR1TQHgWTw8GvnKJQFI8ASCw==" length="21719395" /></item><item><title>Version 1.0.30</title><pubDate>Fri, 18 Sep 2026 07:24:21 +0000</pubDate><description>## What's new in 1.0.30&lt;br/&gt;
+&lt;br/&gt;
+- Desktop Switch now works on every screen, and clicks reach its panel&lt;br/&gt;
+- The palette opens by itself each time you launch, if you turned it on&lt;br/&gt;
+- Permissions are now requested only the first time you use a feature&lt;br/&gt;
+- Calendar reminders no longer trigger a permission prompt&lt;br/&gt;
+- Chat storage sizes are now calculated correctly&lt;br/&gt;
+- On a fresh install everything is on except Calendar, and the menu fits</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.30/Utilix-1.0.30.dmg" type="application/octet-stream" sparkle:version="202609181250" sparkle:shortVersionString="1.0.30" sparkle:edSignature="6GYdwO3ENa2uz62DNf05MNrjxMvuG6Gto4H4Jt6feeGmrs8+jrXh2Kzt0zDfVAARglwDE3zP9mdT7dxaIhPQBg==" length="21727267" /></item><item><title>Version 1.0.29</title><pubDate>Fri, 18 Sep 2026 06:03:30 +0000</pubDate><description>## What's new in 1.0.29&lt;br/&gt;
 &lt;br/&gt;
 - Downloads now arrive as a styled disk image with a clear layout&lt;br/&gt;
 - Drag the app icon onto the Applications folder to install it&lt;br/&gt;
