@@ -6,13 +6,17 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.33</title><pubDate>Fri, 18 Sep 2026 10:21:45 +0000</pubDate><description><![CDATA[## What's new in 1.0.33<br/>
+  <item><title>Version 1.0.34</title><pubDate>Fri, 18 Sep 2026 17:54:54 +0000</pubDate><description><![CDATA[## What's new in 1.0.34<br/>
 <br/>
-- Screen recording permission now asks only once per launch.<br/>
-- Permission prompts explain why they are needed before you choose.<br/>
-- Denying a request no longer looks like you selected nothing.<br/>
-- After you deny access, the app shows how to fix it in Settings.<br/>
-- Better guidance for GIF, edge click, login, and hotkey setup.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.33/Utilix-1.0.33.dmg" type="application/octet-stream" sparkle:version="202609181548" sparkle:shortVersionString="1.0.33" sparkle:edSignature="EZ1hLM9Esp03oeaZeyAhKrdCHX1ML34pZ/6+32FdI7zI7NtyPflC0zNDRKq7p1PN74utZk8L4lpNO+tC9HxGBw==" length="21760717" /></item><item><title>Version 1.0.32</title><pubDate>Fri, 18 Sep 2026 09:30:57 +0000</pubDate><description>## What's new in 1.0.32&lt;br/&gt;
+- Menus now open correctly when another app is in fullscreen mode<br/>
+- A step-by-step install guide PDF now comes with every release<br/>
+- The install guide has new screenshots so setup is easier to follow]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.34/Utilix-1.0.34.dmg" type="application/octet-stream" sparkle:version="202609182321" sparkle:shortVersionString="1.0.34" sparkle:edSignature="HveTVROc1daw8+Dip1dXpRgWlG+6MTDPX4hY08+SAO5pRZ7SnltLbROz0OkoI/2AQadkms9YB6mY5SiT7FkEDQ==" length="21761704" /></item><item><title>Version 1.0.33</title><pubDate>Fri, 18 Sep 2026 10:21:45 +0000</pubDate><description>## What's new in 1.0.33&lt;br/&gt;
+&lt;br/&gt;
+- Screen recording permission now asks only once per launch.&lt;br/&gt;
+- Permission prompts explain why they are needed before you choose.&lt;br/&gt;
+- Denying a request no longer looks like you selected nothing.&lt;br/&gt;
+- After you deny access, the app shows how to fix it in Settings.&lt;br/&gt;
+- Better guidance for GIF, edge click, login, and hotkey setup.</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.33/Utilix-1.0.33.dmg" type="application/octet-stream" sparkle:version="202609181548" sparkle:shortVersionString="1.0.33" sparkle:edSignature="EZ1hLM9Esp03oeaZeyAhKrdCHX1ML34pZ/6+32FdI7zI7NtyPflC0zNDRKq7p1PN74utZk8L4lpNO+tC9HxGBw==" length="21760717" /></item><item><title>Version 1.0.32</title><pubDate>Fri, 18 Sep 2026 09:30:57 +0000</pubDate><description>## What's new in 1.0.32&lt;br/&gt;
 &lt;br/&gt;
 - Web chat is now turned on for you from the very first launch&lt;br/&gt;
 - No extra steps needed to start chatting after a fresh install&lt;br/&gt;
