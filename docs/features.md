@@ -39,14 +39,16 @@ file pickers, a ⌘K action menu, undo toast, and an AI page beside Search
 - Empty Trash: Empty the Trash quickly
 - Desktop Switch: Clickable glowing edges to switch desktops
 
-## AI Chat (optional)
-- Assistant with tools (system info, files, network), streaming responses
+## AI Chat (optional API) + Web AI (default, no key)
+- Web AI: ChatGPT, Gemini, Grok & more inside the app — on by default
+- API assistant with tools (system info, files, network), streaming responses
 - Bring your own API key (70+ providers supported); keys stay in the macOS keychain
 - AI Settings tab: provider, model, temperature, autonomy per tool (Always/Ask/Never)
 
 ## App Behavior
-- Keyboard Shortcuts: Optional global shortcuts (e.g., Mac Vision via ⌥+X)
-- Launch at Login and Notifications toggles
+- Keyboard Shortcuts: global shortcuts on by default (Mac Vision ⌥+X, Translate ⌥+T, Window Snap ⌃⌥ set, palette ⌘Space)
+- Palette opens on every launch; What's New banner shows release highlights once per version
+- Launch at Login registers on first install (toggle in Settings → General)
 - Live Menu-Bar Status (opt-in): timer or meeting countdown next to the icon
-- What's New: the palette shows release highlights once per version
-- In-app updates: Check for Updates… in the menu or Preferences → General 
+- In-app updates: silent download, verify, install, relaunch — no action needed
+- 22 utilities on out of the box; Calendar opt-in; Desktop Switch needs explicit enabling 

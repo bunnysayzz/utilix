@@ -1,32 +1,42 @@
 # Getting Started
 
 ## Download
-- Go to the GitHub Releases page for this repo and download the latest `.dmg`
+- Go to the [GitHub Releases page](https://github.com/bunnysayzz/utilix/releases) and download the latest `.dmg`
   (one Universal build for Apple Silicon and Intel), or visit
   [itch.io](https://bunnysayzz.itch.io/utilix).
+- Each release also attaches an **Install Guide PDF** — the illustrated
+  version of the steps below.
 
 ## Install
-1. Open the `.dmg` and drag Utilix to `Applications`.
-2. First run: right‑click the app, select `Open`, then confirm (if Gatekeeper prompts).
+See the full walkthrough: [`install.md`](install.md). Short version:
+1. Open the `.dmg` and drag Utilix to `Applications` (never run it from the disk image).
+2. First launch is blocked by Gatekeeper: click Done, allow it in
+   System Settings → Privacy & Security → Open Anyway, launch again,
+   confirm, authenticate once.
 
 ## First Launch Checklist
-- The command palette opens with ⌘Space (disable Spotlight's shortcut first,
-  the app guides you). The menu-bar icon opens the utilities dropdown.
-- Open Preferences → General to enable Launch at Login and notifications (optional).
-- Open Preferences → Utilities to enable the tools you want.
-- Open Preferences → Permissions to grant required permissions:
-  - Accessibility (Desktop Switch, Window Snap, Shortcuts, Automation)
-  - Screen Recording (Mac Vision OCR, GIF recording)
-  - Calendars (optional, for meeting join links)
-  - Full Disk Access (optional for file utilities)
+- The command palette opens automatically (later: ⌘Space — disable
+  Spotlight's shortcut first, the app guides you). The menu-bar icon opens
+  the utilities dropdown.
+- 22 utilities are already on; only Calendar stays opt-in. Desktop Switch
+  needs explicit enabling (its row is always visible).
+- Web AI works immediately, no key needed. API chat needs your provider key
+  (Settings → AI Settings → Add key, stored in the keychain).
+- Utilix registers launch-at-login on first install (Settings → General)
+  and updates itself silently in the background.
+- Open Settings → Permissions to see live grant status: Accessibility,
+  Screen Recording, Calendars, Full Disk Access, Notifications — each is
+  asked the first time its feature runs, never at launch. After granting
+  Screen Recording, quit + reopen Utilix once before capturing.
 
 ## Updates
-New versions published on the Releases page are offered in-app
-(menu bar → Check for Updates…, or Preferences → General), verified by
-signature before installing. After each update, the palette shows a
-What's New banner once with the highlights (dismiss with Got it).
+New versions published on the Releases page install themselves silently
+in the background, verified by signature — no action, no account needed.
+After each update, the palette shows a What's New banner once with the
+highlights.
 
 ## Uninstall
 - Quit Utilix from the menu bar
 - Remove `Utilix.app` from `Applications`
-- Optionally delete preferences in `~/Library/Preferences` if you wish 
+- Optionally delete preferences in `~/Library/Preferences` and data in
+  `~/Library/Application Support/Utilix`

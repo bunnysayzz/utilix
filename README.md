@@ -3,39 +3,41 @@
 This is the public, community-facing repository for Utilix. The app itself is closed‑source; this repository is for documentation, releases, issue tracking, and community discussions only. There is no application source code in this repo.
 
 ## What is Utilix?
-Utilix is a lightweight macOS menu bar app that bundles everyday utilities into one place: a ⌘Space command palette, a menu-bar dropdown, and a right-click status menu, with optional AI chat (bring your own API key) and automatic in-app updates.
+Utilix is a lightweight macOS menu bar app that bundles everyday utilities into one place: a ⌘Space command palette (opens on every launch), a menu-bar dropdown, and a right-click status menu — with Web AI built in (no API key needed), optional API chat (bring your own key), and silent automatic updates.
 
 ## Features
-- Command Palette (⌘Space): Search commands, apps, and settings from anywhere
-- Keep Awake: Prevent system sleep on demand (10 min / 30 min / 1 hour / forever)
-- Clipboard History: Track and reuse clipboard entries (text, images, files, links)
-- Snippets: Save reusable text and image snippets, expandable while typing
-- QR Generator: Create QR codes quickly (text, URL, Wi‑Fi, vCard, events)
-- File Compressor: Compress images and PDFs from the menu bar
-- Batch Rename: Rename files by pattern, with undo
-- Temp Note: Jot down quick temporary notes
-- Auto Typing: Type clipboard content automatically, with adjustable speed
-- Emoji: Search and copy from 386 symbols
-- Mac Vision (OCR): Capture text from the screen anywhere on macOS
-- Translate: Translate, polish, and summarize text
-- Window Snap: Tile windows into halves and thirds
-- Calendar Meetings: Upcoming meetings with one-click join links
-- Pomodoro: Focus timer with menu-bar countdown
-- GIF Recorder: Silent short screen captures
-- Dev Tools: Format and transform text (JSON, Base64, URL, cases, hashes)
-- Color Picker: Pick and track screen colors
-- Battery Health: Monitor battery status at a glance
-- Network Monitor: View network information
-- Public IP: Check your external IP address
-- Speed Test: Measure internet speed (simple test)
-- Default Browser: Quick access to your default browser settings
-- Empty Trash: Empty the Trash quickly
-- Desktop Switch: Clickable glowing edges to switch macOS desktops
-- AI Chat: Optional assistant with tools (bring your own API key)
-- Web AI: ChatGPT, Gemini, Grok & more inside the app, no API key needed
-- Keyboard Shortcuts: Optional global shortcuts (e.g., Mac Vision via ⌥+X)
-- Launch at Login and Notifications toggles
-- What's New: The palette shows release highlights once per version
+- Command Palette (⌘Space): search commands, apps, and settings from anywhere; opens automatically on every launch
+- Keep Awake: prevent system sleep on demand (10 min / 30 min / 1 hour / forever)
+- Clipboard History: track and reuse clipboard entries (text, images, files, links)
+- Snippets: save reusable text and image snippets, expandable while typing
+- QR Generator: create QR codes quickly (text, URL, Wi‑Fi, vCard, events) + scan
+- File Compressor: compress images and PDFs from the menu bar
+- Batch Rename: rename files by pattern, with undo
+- Temp Note: jot down quick temporary notes
+- Auto Typing: type clipboard content automatically, with adjustable speed
+- Emoji: search and copy from 386 symbols
+- Mac Vision (OCR): capture text from the screen anywhere on macOS (⌥X)
+- Translate: translate, polish, and summarize text (⌥T)
+- Window Snap: tile windows into halves and thirds (⌃⌥ arrow keys)
+- Calendar Meetings: upcoming meetings with one-click join links (opt-in)
+- Pomodoro: focus timer with menu-bar countdown
+- GIF Recorder: silent short screen captures
+- Dev Tools: format and transform text (JSON, Base64, URL, cases, hashes)
+- Color Picker: pick and track screen colors
+- Battery Health: monitor battery status at a glance
+- Network Monitor: view network information
+- Public IP: check your external IP address
+- Speed Test: measure internet speed (simple test)
+- Default Browser: quick access to your default browser settings
+- Empty Trash: empty the Trash quickly
+- Desktop Switch: clickable glowing edges to switch macOS desktops (enable explicitly; needs Accessibility)
+- AI Chat: optional assistant with tools (bring your own API key)
+- Web AI: ChatGPT, Gemini, Grok & more inside the app, no API key needed — on by default
+- Global shortcuts: ⌘Space palette, ⌥X capture, ⌥T translate, ⌃⌥ snap set — all on by default
+- Launch at Login: enabled automatically on first install
+- What's New: release highlights in the palette
+
+Almost everything is on out of the box. Only Calendar stays opt-in (so macOS never prompts for calendar access uninvited).
 
 ## Screenshots
 
@@ -55,42 +57,37 @@ Utilix is a lightweight macOS menu bar app that bundles everyday utilities into 
 
 ## Download
 
-- Go to this repository’s Releases page and download the latest `.dmg` installer.
+- Go to this repository's Releases page and download the latest `.dmg` installer.
 - One Universal build runs on both Apple Silicon and Intel Macs.
 - Or get it on [itch.io](https://bunnysayzz.itch.io/utilix).
-
-## Updates
-
-Utilix updates itself: when a new version is published here, running installs
-are offered the update in-app (menu bar → Check for Updates…), verified by
-signature before installing. No account or additional download step needed.
+- New here? Each release ships an **Install Guide PDF** beside the DMG — it walks through install, the one-time macOS approval, first launch, and permissions.
 
 ## Install
 1. Open the downloaded `.dmg`.
 2. Drag Utilix to the `Applications` folder.
-3. On first launch, if macOS warns that the app is from an unidentified developer, right‑click the app, choose `Open`, then confirm.
+3. Double-click Utilix in Applications. macOS will block the first launch ("Not Opened") because Utilix is directly distributed: click **Done** (not Move to Bin), open **System Settings → Privacy & Security**, click **Open Anyway** next to the Utilix notice, launch again, confirm **Open Anyway**, and approve with Touch ID or password. One time only.
+4. Full walkthrough with screenshots: [`docs/install.md`](docs/install.md), or the Install Guide PDF attached to every release.
 
 ## Required Permissions
-Some utilities need macOS permissions:
-- Accessibility: For desktop switching, window snapping, shortcuts, and automation
-- Screen Recording: For on‑device OCR (Mac Vision) and GIF recording
-- Calendars: For upcoming meetings with join links (optional)
-- Full Disk Access (optional): For comprehensive file utilities
+Nothing is asked at launch. Each permission appears the first time its feature runs:
+- Accessibility: window snap, snippet expansion, global shortcuts, auto-typing, Desktop Switch — asked on first use
+- Screen Recording: Mac Vision OCR, GIF recording — asked on first capture (reopen Utilix once after granting)
+- Calendars: upcoming meetings with join links — asked on first calendar open (holidays need no permission)
+- Full Disk Access: Trash and file tools — macOS offers no prompt for this; flip it manually via the in-app Fix button
+- Notifications: timers and meeting warnings — asked on first delivery
 
-You can enable these in System Settings → Privacy & Security. Utilix also provides shortcuts to these pages from Preferences → Permissions.
-See `docs/permissions.md` for the full guide.
+Manage everything live in Settings → Permissions (status + deep links). See `docs/permissions.md` for the full guide.
 
 ## Shortcuts
-- Toggle global shortcuts in Preferences → Shortcuts.
-- Command palette: ⌘Space (disable Spotlight's shortcut first, the app guides you).
-- Mac Vision default shortcut: ⌥ + X (optional; can be disabled).
+- Command palette: ⌘Space, opens on every launch (disable Spotlight's shortcut first, the app guides you).
+- Mac Vision capture: ⌥X · Translate selection: ⌥T · Window Snap: ⌃⌥ arrows/numbers — all enabled by default, toggle in Settings → Shortcuts.
 
 ## Privacy
 Your data stays on your Mac. Clipboard history, snippets, notes, and preferences are stored locally. Utilix does not send your data to any server.
-The optional AI Chat sends only what you type to the provider you configured, using your own API key.
+The optional API Chat sends only what you type to the provider you configured, using your own API key (stored in the macOS keychain). Web AI loads provider websites you choose to visit — same as using them in a browser.
 
 ## Support & Community
-- Open a Bug Report or Feature Request from the Issues tab (templates provided).
+- Open a Bug Report or Feature Request from the Issues tab (templates provided) — or from inside the app via the bug icon.
 - Full docs: [`docs/`](docs/) (start at [`docs/getting-started.md`](docs/getting-started.md)).
 - For general info and updates, see the [itch.io page](https://bunnysayzz.itch.io/utilix)
 - Contact: [stfuazzo@gmail.com](mailto:stfuazzo@gmail.com)
@@ -100,4 +97,4 @@ Contributions are welcome for documentation, issue triage, and ideas. Please rea
 
 ## Disclaimer
 - This repository contains no application source code.
-- Binary releases are provided for user convenience. Use at your own discretion. 
+- Binary releases are provided for user convenience. Use at your own discretion.
