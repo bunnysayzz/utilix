@@ -6,11 +6,14 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.36</title><pubDate>Fri, 18 Sep 2026 19:14:26 +0000</pubDate><description><![CDATA[## What's new in 1.0.36<br/>
+  <item><title>Version 1.0.37</title><pubDate>Fri, 18 Sep 2026 19:35:45 +0000</pubDate><description><![CDATA[## What's new in 1.0.37<br/>
 <br/>
-- Teach the release-notes AI to write for humans + hard denylist<br/>
-- Ignore Python bytecode caches (release scripts are .py)<br/>
-- Print a short shipped-summary at the end of every release]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.36/Utilix-1.0.36.dmg" type="application/octet-stream" sparkle:version="202609190042" sparkle:shortVersionString="1.0.36" sparkle:edSignature="gJGSz83rt6nrttMv+PNUdbELeRxJs5B2JIVIVLgnen4WfSRkJhISUxMl1bP9+qCh8u4+13r5d4qn1cKjNq8HDA==" length="21761302" /></item><item><title>Version 1.0.35</title><pubDate>Fri, 18 Sep 2026 18:59:13 +0000</pubDate><description>## What's new in 1.0.35&lt;br/&gt;
+- Swiping to open Settings from a full screen app now works<br/>
+- The Settings window now opens at a size that fits your screen]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.37/Utilix-1.0.37.dmg" type="application/octet-stream" sparkle:version="202609190102" sparkle:shortVersionString="1.0.37" sparkle:edSignature="HW9yHzDlI4wTMHkhsM3z/ox/kkAgWI3EeK+YYWbkeYJvUAigpxQORVIKfWbpOCcGI9qEd8g2edXNgpYxgabiDA==" length="21762637" /></item><item><title>Version 1.0.36</title><pubDate>Fri, 18 Sep 2026 19:14:26 +0000</pubDate><description>## What's new in 1.0.36&lt;br/&gt;
+&lt;br/&gt;
+- Teach the release-notes AI to write for humans + hard denylist&lt;br/&gt;
+- Ignore Python bytecode caches (release scripts are .py)&lt;br/&gt;
+- Print a short shipped-summary at the end of every release</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.36/Utilix-1.0.36.dmg" type="application/octet-stream" sparkle:version="202609190042" sparkle:shortVersionString="1.0.36" sparkle:edSignature="gJGSz83rt6nrttMv+PNUdbELeRxJs5B2JIVIVLgnen4WfSRkJhISUxMl1bP9+qCh8u4+13r5d4qn1cKjNq8HDA==" length="21761302" /></item><item><title>Version 1.0.35</title><pubDate>Fri, 18 Sep 2026 18:59:13 +0000</pubDate><description>## What's new in 1.0.35&lt;br/&gt;
 &lt;br/&gt;
 - Fixed a bug where swiping in Settings could slide a Space open by mistake&lt;br/&gt;
 - The bring-here summon now appears correctly when you call it&lt;br/&gt;
