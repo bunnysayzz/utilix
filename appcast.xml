@@ -6,11 +6,16 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.34</title><pubDate>Fri, 18 Sep 2026 17:54:54 +0000</pubDate><description><![CDATA[## What's new in 1.0.34<br/>
+  <item><title>Version 1.0.35</title><pubDate>Fri, 18 Sep 2026 18:59:13 +0000</pubDate><description><![CDATA[## What's new in 1.0.35<br/>
 <br/>
-- Menus now open correctly when another app is in fullscreen mode<br/>
-- A step-by-step install guide PDF now comes with every release<br/>
-- The install guide has new screenshots so setup is easier to follow]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.34/Utilix-1.0.34.dmg" type="application/octet-stream" sparkle:version="202609182321" sparkle:shortVersionString="1.0.34" sparkle:edSignature="HveTVROc1daw8+Dip1dXpRgWlG+6MTDPX4hY08+SAO5pRZ7SnltLbROz0OkoI/2AQadkms9YB6mY5SiT7FkEDQ==" length="21761704" /></item><item><title>Version 1.0.33</title><pubDate>Fri, 18 Sep 2026 10:21:45 +0000</pubDate><description>## What's new in 1.0.33&lt;br/&gt;
+- Fixed a bug where swiping in Settings could slide a Space open by mistake<br/>
+- The bring-here summon now appears correctly when you call it<br/>
+- Swiping between Spaces in Settings behaves normally again<br/>
+- New versions now reach itch.io right after each release, so downloads stay current]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.35/Utilix-1.0.35.dmg" type="application/octet-stream" sparkle:version="202609190026" sparkle:shortVersionString="1.0.35" sparkle:edSignature="oITK4dACURWD1NQscZEOhPqQT1c3hj7C+lQnjBNL6MiC0DXHgju3j/jSDOAIvsGguw+YU2heSDiMmtcINIloDw==" length="21761232" /></item><item><title>Version 1.0.34</title><pubDate>Fri, 18 Sep 2026 17:54:54 +0000</pubDate><description>## What's new in 1.0.34&lt;br/&gt;
+&lt;br/&gt;
+- Menus now open correctly when another app is in fullscreen mode&lt;br/&gt;
+- A step-by-step install guide PDF now comes with every release&lt;br/&gt;
+- The install guide has new screenshots so setup is easier to follow</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.34/Utilix-1.0.34.dmg" type="application/octet-stream" sparkle:version="202609182321" sparkle:shortVersionString="1.0.34" sparkle:edSignature="HveTVROc1daw8+Dip1dXpRgWlG+6MTDPX4hY08+SAO5pRZ7SnltLbROz0OkoI/2AQadkms9YB6mY5SiT7FkEDQ==" length="21761704" /></item><item><title>Version 1.0.33</title><pubDate>Fri, 18 Sep 2026 10:21:45 +0000</pubDate><description>## What's new in 1.0.33&lt;br/&gt;
 &lt;br/&gt;
 - Screen recording permission now asks only once per launch.&lt;br/&gt;
 - Permission prompts explain why they are needed before you choose.&lt;br/&gt;
