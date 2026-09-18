@@ -6,12 +6,19 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.29</title><pubDate>Fri, 18 Sep 2026 06:03:30 +0000</pubDate><description><![CDATA[## What's new in 1.0.29<br/>
+  <item><title>Version 1.0.30</title><pubDate>Fri, 18 Sep 2026 07:24:21 +0000</pubDate><description><![CDATA[## What's new in 1.0.30<br/>
 <br/>
-- Downloads now arrive as a styled disk image with a clear layout<br/>
-- Drag the app icon onto the Applications folder to install it<br/>
-- The window opens already arranged, so nothing is hard to find<br/>
-- This is now the standard download for every new version]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.29/Utilix-1.0.29.dmg" type="application/octet-stream" sparkle:version="202609181130" sparkle:shortVersionString="1.0.29" sparkle:edSignature="IPMAFVolDXJ/5Jw/+OPubkypwe/FURNKRfr9TrbE5IuAjL8ByGCaZrlb2CAmHL4jayjy/iglPVo1sHQ4DwjzCQ==" length="21710786" /></item><item><title>Version 1.0.28</title><pubDate>Fri, 18 Sep 2026 05:41:16 +0000</pubDate><description>## What's new in 1.0.28&lt;br/&gt;
+- Desktop Switch now works on every screen, and clicks reach its panel<br/>
+- The palette opens by itself each time you launch, if you turned it on<br/>
+- Permissions are now requested only the first time you use a feature<br/>
+- Calendar reminders no longer trigger a permission prompt<br/>
+- Chat storage sizes are now calculated correctly<br/>
+- On a fresh install everything is on except Calendar, and the menu fits]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.30/Utilix-1.0.30.dmg" type="application/octet-stream" sparkle:version="202609181250" sparkle:shortVersionString="1.0.30" sparkle:edSignature="6GYdwO3ENa2uz62DNf05MNrjxMvuG6Gto4H4Jt6feeGmrs8+jrXh2Kzt0zDfVAARglwDE3zP9mdT7dxaIhPQBg==" length="21727267" /></item><item><title>Version 1.0.29</title><pubDate>Fri, 18 Sep 2026 06:03:30 +0000</pubDate><description>## What's new in 1.0.29&lt;br/&gt;
+&lt;br/&gt;
+- Downloads now arrive as a styled disk image with a clear layout&lt;br/&gt;
+- Drag the app icon onto the Applications folder to install it&lt;br/&gt;
+- The window opens already arranged, so nothing is hard to find&lt;br/&gt;
+- This is now the standard download for every new version</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.29/Utilix-1.0.29.dmg" type="application/octet-stream" sparkle:version="202609181130" sparkle:shortVersionString="1.0.29" sparkle:edSignature="IPMAFVolDXJ/5Jw/+OPubkypwe/FURNKRfr9TrbE5IuAjL8ByGCaZrlb2CAmHL4jayjy/iglPVo1sHQ4DwjzCQ==" length="21710786" /></item><item><title>Version 1.0.28</title><pubDate>Fri, 18 Sep 2026 05:41:16 +0000</pubDate><description>## What's new in 1.0.28&lt;br/&gt;
 &lt;br/&gt;
 - See your country's public holidays in a rolling week strip&lt;br/&gt;
 - Updates now install automatically by default for everyone&lt;br/&gt;
