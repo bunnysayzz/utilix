@@ -6,11 +6,17 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.32</title><pubDate>Fri, 18 Sep 2026 09:30:57 +0000</pubDate><description><![CDATA[## What's new in 1.0.32<br/>
+  <item><title>Version 1.0.33</title><pubDate>Fri, 18 Sep 2026 10:21:45 +0000</pubDate><description><![CDATA[## What's new in 1.0.33<br/>
 <br/>
-- Web chat is now turned on for you from the very first launch<br/>
-- No extra steps needed to start chatting after a fresh install<br/>
-- You can still turn web chat off at any time in the settings]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.32/Utilix-1.0.32.dmg" type="application/octet-stream" sparkle:version="202609181457" sparkle:shortVersionString="1.0.32" sparkle:edSignature="CN3QyT9zpcyKlwJckDIZ/FK1I67EVxN3FlZOwMq8Ewcp7rdflJE+2WzH7YtWYIXJhE8NollqSygM8/fUE93wCw==" length="21721497" /></item><item><title>Version 1.0.31</title><pubDate>Fri, 18 Sep 2026 08:51:10 +0000</pubDate><description>## What's new in 1.0.31&lt;br/&gt;
+- Screen recording permission now asks only once per launch.<br/>
+- Permission prompts explain why they are needed before you choose.<br/>
+- Denying a request no longer looks like you selected nothing.<br/>
+- After you deny access, the app shows how to fix it in Settings.<br/>
+- Better guidance for GIF, edge click, login, and hotkey setup.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.33/Utilix-1.0.33.dmg" type="application/octet-stream" sparkle:version="202609181548" sparkle:shortVersionString="1.0.33" sparkle:edSignature="EZ1hLM9Esp03oeaZeyAhKrdCHX1ML34pZ/6+32FdI7zI7NtyPflC0zNDRKq7p1PN74utZk8L4lpNO+tC9HxGBw==" length="21760717" /></item><item><title>Version 1.0.32</title><pubDate>Fri, 18 Sep 2026 09:30:57 +0000</pubDate><description>## What's new in 1.0.32&lt;br/&gt;
+&lt;br/&gt;
+- Web chat is now turned on for you from the very first launch&lt;br/&gt;
+- No extra steps needed to start chatting after a fresh install&lt;br/&gt;
+- You can still turn web chat off at any time in the settings</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.32/Utilix-1.0.32.dmg" type="application/octet-stream" sparkle:version="202609181457" sparkle:shortVersionString="1.0.32" sparkle:edSignature="CN3QyT9zpcyKlwJckDIZ/FK1I67EVxN3FlZOwMq8Ewcp7rdflJE+2WzH7YtWYIXJhE8NollqSygM8/fUE93wCw==" length="21721497" /></item><item><title>Version 1.0.31</title><pubDate>Fri, 18 Sep 2026 08:51:10 +0000</pubDate><description>## What's new in 1.0.31&lt;br/&gt;
 &lt;br/&gt;
 - Desktop Switch now starts off, and all global shortcuts are on by default&lt;br/&gt;
 - Permissions tab now shows live status and a clear trust badge&lt;br/&gt;
