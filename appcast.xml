@@ -6,14 +6,21 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.40</title><pubDate>Sat, 19 Sep 2026 19:10:35 +0000</pubDate><description><![CDATA[## What's new in 1.0.40<br/>
+  <item><title>Version 1.0.42</title><pubDate>Sat, 19 Sep 2026 20:12:09 +0000</pubDate><description><![CDATA[## What's new in 1.0.42<br/>
 <br/>
-- Right-click files in Finder to copy a path, open Terminal, or create a new file<br/>
-- Convert CSV, JSON, Markdown, XML and YAML, check file hashes, get login codes<br/>
-- Check your network: ports, traceroute, DNS, WHOIS and subnet details<br/>
-- Zip files, merge and split PDFs, compress images, and remove photo data<br/>
-- Take screenshots, mark them up, measure on screen, capture long scrolling pages<br/>
-- Watch CPU, memory, disk and heat, and switch dark mode, hidden files or Focus]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.40/Utilix-1.0.40.dmg" type="application/octet-stream" sparkle:version="202609200033" sparkle:shortVersionString="1.0.40" sparkle:edSignature="6Uml1WDqq5VzOIFhrP+BZiH5WNJifPhodDVutpo+Uqn7yGaKN20GFZSHpG3Q1n3L2O/nhO7XqKsJw5XcdUi7Cw==" length="16774801" /></item><item><title>Version 1.0.39</title><pubDate>Sat, 19 Sep 2026 10:20:29 +0000</pubDate><description>## What's new in 1.0.39&lt;br/&gt;
+- Fix parallel guide race: build to /tmp, move into place at join<br/>
+- Allow balanced 1-line Info.plist stamps on explicit re-runs]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.42/Utilix-1.0.42.dmg" type="application/octet-stream" sparkle:version="202609200138" sparkle:shortVersionString="1.0.42" sparkle:edSignature="ufU5bF/N+V5fT+Ddhj6vRVBsPhXKEL6xW/8EPAC2lxs2xlwUJR3P4oPHOkeAochgffLMCVqO3iACSRS2DTjrAg==" length="16775151" /></item><item><title>Version 1.0.41</title><pubDate>Sat, 19 Sep 2026 19:51:39 +0000</pubDate><description>## What's new in 1.0.41&lt;br/&gt;
+&lt;br/&gt;
+- Taking a screenshot no longer crashes the app&lt;br/&gt;
+- Screenshots now finish saving after you capture them&lt;br/&gt;
+- Downloads from itch.io now show the version in the file name</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.41/Utilix-1.0.41.dmg" type="application/octet-stream" sparkle:version="202609200117" sparkle:shortVersionString="1.0.41" sparkle:edSignature="YmFy2qzACts7w/Z1zGJh9QcCiz1McNb7lEhoa3qp+8AINA/VHkk+EozdoP12ybcsbFDhIeog5Nyb+Xt5Lxr/Dg==" length="16774161" /></item><item><title>Version 1.0.40</title><pubDate>Sat, 19 Sep 2026 19:10:35 +0000</pubDate><description>## What's new in 1.0.40&lt;br/&gt;
+&lt;br/&gt;
+- Right-click files in Finder to copy a path, open Terminal, or create a new file&lt;br/&gt;
+- Convert CSV, JSON, Markdown, XML and YAML, check file hashes, get login codes&lt;br/&gt;
+- Check your network: ports, traceroute, DNS, WHOIS and subnet details&lt;br/&gt;
+- Zip files, merge and split PDFs, compress images, and remove photo data&lt;br/&gt;
+- Take screenshots, mark them up, measure on screen, capture long scrolling pages&lt;br/&gt;
+- Watch CPU, memory, disk and heat, and switch dark mode, hidden files or Focus</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.40/Utilix-1.0.40.dmg" type="application/octet-stream" sparkle:version="202609200033" sparkle:shortVersionString="1.0.40" sparkle:edSignature="6Uml1WDqq5VzOIFhrP+BZiH5WNJifPhodDVutpo+Uqn7yGaKN20GFZSHpG3Q1n3L2O/nhO7XqKsJw5XcdUi7Cw==" length="16774801" /></item><item><title>Version 1.0.39</title><pubDate>Sat, 19 Sep 2026 10:20:29 +0000</pubDate><description>## What's new in 1.0.39&lt;br/&gt;
 &lt;br/&gt;
 - Settings sidebar is now grouped into clear sections&lt;br/&gt;
 - Tab names now say what each tab actually does&lt;br/&gt;
