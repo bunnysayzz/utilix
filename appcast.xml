@@ -6,12 +6,19 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.39</title><pubDate>Sat, 19 Sep 2026 10:20:29 +0000</pubDate><description><![CDATA[## What's new in 1.0.39<br/>
+  <item><title>Version 1.0.40</title><pubDate>Sat, 19 Sep 2026 19:10:35 +0000</pubDate><description><![CDATA[## What's new in 1.0.40<br/>
 <br/>
-- Settings sidebar is now grouped into clear sections<br/>
-- Tab names now say what each tab actually does<br/>
-- General settings moved into the tabs they belong with<br/>
-- Nothing moved to a new place on its own]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.39/Utilix-1.0.39.dmg" type="application/octet-stream" sparkle:version="202609191547" sparkle:shortVersionString="1.0.39" sparkle:edSignature="FcuPTsxjyxqiPJQ7kQBaick1L6of95c+xYLevOPdYahbzwklVhxhjsGs0yLEUwryWkcZHV5DM234xbTLk9tBBg==" length="21794615" /></item><item><title>Version 1.0.38</title><pubDate>Sat, 19 Sep 2026 06:15:10 +0000</pubDate><description>## What's new in 1.0.38&lt;br/&gt;
+- Right-click files in Finder to copy a path, open Terminal, or create a new file<br/>
+- Convert CSV, JSON, Markdown, XML and YAML, check file hashes, get login codes<br/>
+- Check your network: ports, traceroute, DNS, WHOIS and subnet details<br/>
+- Zip files, merge and split PDFs, compress images, and remove photo data<br/>
+- Take screenshots, mark them up, measure on screen, capture long scrolling pages<br/>
+- Watch CPU, memory, disk and heat, and switch dark mode, hidden files or Focus]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.40/Utilix-1.0.40.dmg" type="application/octet-stream" sparkle:version="202609200033" sparkle:shortVersionString="1.0.40" sparkle:edSignature="6Uml1WDqq5VzOIFhrP+BZiH5WNJifPhodDVutpo+Uqn7yGaKN20GFZSHpG3Q1n3L2O/nhO7XqKsJw5XcdUi7Cw==" length="16774801" /></item><item><title>Version 1.0.39</title><pubDate>Sat, 19 Sep 2026 10:20:29 +0000</pubDate><description>## What's new in 1.0.39&lt;br/&gt;
+&lt;br/&gt;
+- Settings sidebar is now grouped into clear sections&lt;br/&gt;
+- Tab names now say what each tab actually does&lt;br/&gt;
+- General settings moved into the tabs they belong with&lt;br/&gt;
+- Nothing moved to a new place on its own</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.39/Utilix-1.0.39.dmg" type="application/octet-stream" sparkle:version="202609191547" sparkle:shortVersionString="1.0.39" sparkle:edSignature="FcuPTsxjyxqiPJQ7kQBaick1L6of95c+xYLevOPdYahbzwklVhxhjsGs0yLEUwryWkcZHV5DM234xbTLk9tBBg==" length="21794615" /></item><item><title>Version 1.0.38</title><pubDate>Sat, 19 Sep 2026 06:15:10 +0000</pubDate><description>## What's new in 1.0.38&lt;br/&gt;
 &lt;br/&gt;
 - Utilix now sends one anonymous daily count so we can see how many people use it&lt;br/&gt;
 - You can switch the anonymous daily count off in Settings at any time&lt;br/&gt;
