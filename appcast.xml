@@ -6,14 +6,17 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.43</title><pubDate>Sun, 20 Sep 2026 17:46:44 +0000</pubDate><description><![CDATA[## What's new in 1.0.43<br/>
+  <item><title>Version 1.0.44</title><pubDate>Sun, 20 Sep 2026 18:34:48 +0000</pubDate><description><![CDATA[## What's new in 1.0.44<br/>
 <br/>
-- Take screenshots of a window, the full screen, on a delay, or on repeat<br/>
-- Assign your own global keyboard shortcut to any command<br/>
-- Drag a window to the edge of your screen to snap it into place<br/>
-- Palette search now matches every word you type, titles first<br/>
-- Check for updates every 6 hours instead of every 12<br/>
-- Fixed a crash that happened when dragging in the palette]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.43/Utilix-1.0.43.dmg" type="application/octet-stream" sparkle:version="202609202312" sparkle:shortVersionString="1.0.43" sparkle:edSignature="+ucdkIbByCCL8WEINehapTKcoqMQzgGnkBWyzEmFBiu24dp3n3QmU3SmibD5oODe+IELsGKhre+AnCORHAIBCw==" length="17208014" /></item><item><title>Version 1.0.42</title><pubDate>Sat, 19 Sep 2026 20:12:09 +0000</pubDate><description>## What's new in 1.0.42&lt;br/&gt;
+- Rows with no shortcut assigned no longer show Command-Space<br/>
+- Only rows with a real shortcut show a key combination]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.44/Utilix-1.0.44.dmg" type="application/octet-stream" sparkle:version="202609210000" sparkle:shortVersionString="1.0.44" sparkle:edSignature="cf3Gm4nlRZkY9wSTUtWqQ6LsBbgm3ObVrOvSshZtylfnqx7BCdSr/QOhuFyl+AoBkODt8fNzPuCooQ4dWul8Cg==" length="17208019" /></item><item><title>Version 1.0.43</title><pubDate>Sun, 20 Sep 2026 17:46:44 +0000</pubDate><description>## What's new in 1.0.43&lt;br/&gt;
+&lt;br/&gt;
+- Take screenshots of a window, the full screen, on a delay, or on repeat&lt;br/&gt;
+- Assign your own global keyboard shortcut to any command&lt;br/&gt;
+- Drag a window to the edge of your screen to snap it into place&lt;br/&gt;
+- Palette search now matches every word you type, titles first&lt;br/&gt;
+- Check for updates every 6 hours instead of every 12&lt;br/&gt;
+- Fixed a crash that happened when dragging in the palette</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.43/Utilix-1.0.43.dmg" type="application/octet-stream" sparkle:version="202609202312" sparkle:shortVersionString="1.0.43" sparkle:edSignature="+ucdkIbByCCL8WEINehapTKcoqMQzgGnkBWyzEmFBiu24dp3n3QmU3SmibD5oODe+IELsGKhre+AnCORHAIBCw==" length="17208014" /></item><item><title>Version 1.0.42</title><pubDate>Sat, 19 Sep 2026 20:12:09 +0000</pubDate><description>## What's new in 1.0.42&lt;br/&gt;
 &lt;br/&gt;
 - Fix parallel guide race: build to /tmp, move into place at join&lt;br/&gt;
 - Allow balanced 1-line Info.plist stamps on explicit re-runs</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.42/Utilix-1.0.42.dmg" type="application/octet-stream" sparkle:version="202609200138" sparkle:shortVersionString="1.0.42" sparkle:edSignature="ufU5bF/N+V5fT+Ddhj6vRVBsPhXKEL6xW/8EPAC2lxs2xlwUJR3P4oPHOkeAochgffLMCVqO3iACSRS2DTjrAg==" length="16775151" /></item><item><title>Version 1.0.41</title><pubDate>Sat, 19 Sep 2026 19:51:39 +0000</pubDate><description>## What's new in 1.0.41&lt;br/&gt;
