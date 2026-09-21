@@ -6,10 +6,17 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.44</title><pubDate>Sun, 20 Sep 2026 18:34:48 +0000</pubDate><description><![CDATA[## What's new in 1.0.44<br/>
+  <item><title>Version 1.0.45</title><pubDate>Mon, 21 Sep 2026 03:37:02 +0000</pubDate><description><![CDATA[## What's new in 1.0.45<br/>
 <br/>
-- Rows with no shortcut assigned no longer show Command-Space<br/>
-- Only rows with a real shortcut show a key combination]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.44/Utilix-1.0.44.dmg" type="application/octet-stream" sparkle:version="202609210000" sparkle:shortVersionString="1.0.44" sparkle:edSignature="cf3Gm4nlRZkY9wSTUtWqQ6LsBbgm3ObVrOvSshZtylfnqx7BCdSr/QOhuFyl+AoBkODt8fNzPuCooQ4dWul8Cg==" length="17208019" /></item><item><title>Version 1.0.43</title><pubDate>Sun, 20 Sep 2026 17:46:44 +0000</pubDate><description>## What's new in 1.0.43&lt;br/&gt;
+- Scroll capture now shows a panel with status, Stop, and Discard.<br/>
+- Scroll capture guides you through each step and ends clearly.<br/>
+- Scroll capture explains that the region stays fixed while the page moves.<br/>
+- Window shots now save the window you pick, not a wide fixed shape.<br/>
+- Two shots taken in the same second are both kept and saved.<br/>
+- Save dialogs now stay above your other open windows.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.45/Utilix-1.0.45.dmg" type="application/octet-stream" sparkle:version="202609210903" sparkle:shortVersionString="1.0.45" sparkle:edSignature="01RYLefMi1iD+oIZKIeLhmKcP1i6Eo8vWdW9nMXfNzRFZpJqCD/mxzXLhq8SJV5m86AM78HkYOIMqXATZY4iDA==" length="17228190" /></item><item><title>Version 1.0.44</title><pubDate>Sun, 20 Sep 2026 18:34:48 +0000</pubDate><description>## What's new in 1.0.44&lt;br/&gt;
+&lt;br/&gt;
+- Rows with no shortcut assigned no longer show Command-Space&lt;br/&gt;
+- Only rows with a real shortcut show a key combination</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.44/Utilix-1.0.44.dmg" type="application/octet-stream" sparkle:version="202609210000" sparkle:shortVersionString="1.0.44" sparkle:edSignature="cf3Gm4nlRZkY9wSTUtWqQ6LsBbgm3ObVrOvSshZtylfnqx7BCdSr/QOhuFyl+AoBkODt8fNzPuCooQ4dWul8Cg==" length="17208019" /></item><item><title>Version 1.0.43</title><pubDate>Sun, 20 Sep 2026 17:46:44 +0000</pubDate><description>## What's new in 1.0.43&lt;br/&gt;
 &lt;br/&gt;
 - Take screenshots of a window, the full screen, on a delay, or on repeat&lt;br/&gt;
 - Assign your own global keyboard shortcut to any command&lt;br/&gt;
