@@ -6,14 +6,20 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.45</title><pubDate>Mon, 21 Sep 2026 03:37:02 +0000</pubDate><description><![CDATA[## What's new in 1.0.45<br/>
+  <item><title>Version 1.0.46</title><pubDate>Tue, 22 Sep 2026 04:22:19 +0000</pubDate><description><![CDATA[## What's new in 1.0.46<br/>
 <br/>
-- Scroll capture now shows a panel with status, Stop, and Discard.<br/>
-- Scroll capture guides you through each step and ends clearly.<br/>
-- Scroll capture explains that the region stays fixed while the page moves.<br/>
-- Window shots now save the window you pick, not a wide fixed shape.<br/>
-- Two shots taken in the same second are both kept and saved.<br/>
-- Save dialogs now stay above your other open windows.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.45/Utilix-1.0.45.dmg" type="application/octet-stream" sparkle:version="202609210903" sparkle:shortVersionString="1.0.45" sparkle:edSignature="01RYLefMi1iD+oIZKIeLhmKcP1i6Eo8vWdW9nMXfNzRFZpJqCD/mxzXLhq8SJV5m86AM78HkYOIMqXATZY4iDA==" length="17228190" /></item><item><title>Version 1.0.44</title><pubDate>Sun, 20 Sep 2026 18:34:48 +0000</pubDate><description>## What's new in 1.0.44&lt;br/&gt;
+- The area picker now shows what it will capture before you click<br/>
+- Long page captures scroll the page for you<br/>
+- Every permission prompt now offers a way to fix it on the spot<br/>
+- Annotator adds a select tool, undo history, and an easy way out<br/>
+- Both screenshot settings screens now show the same choices]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.46/Utilix-1.0.46.dmg" type="application/octet-stream" sparkle:version="202609220949" sparkle:shortVersionString="1.0.46" sparkle:edSignature="TH1vrSs23zCQMMvz0SlBjY0n5U64zo7oMrXNPU3mfEl8CTz0mqrMOj9zDJhrQW5D6ppSWTt42xzR7+W2+LabDQ==" length="17302179" /></item><item><title>Version 1.0.45</title><pubDate>Mon, 21 Sep 2026 03:37:02 +0000</pubDate><description>## What's new in 1.0.45&lt;br/&gt;
+&lt;br/&gt;
+- Scroll capture now shows a panel with status, Stop, and Discard.&lt;br/&gt;
+- Scroll capture guides you through each step and ends clearly.&lt;br/&gt;
+- Scroll capture explains that the region stays fixed while the page moves.&lt;br/&gt;
+- Window shots now save the window you pick, not a wide fixed shape.&lt;br/&gt;
+- Two shots taken in the same second are both kept and saved.&lt;br/&gt;
+- Save dialogs now stay above your other open windows.</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.45/Utilix-1.0.45.dmg" type="application/octet-stream" sparkle:version="202609210903" sparkle:shortVersionString="1.0.45" sparkle:edSignature="01RYLefMi1iD+oIZKIeLhmKcP1i6Eo8vWdW9nMXfNzRFZpJqCD/mxzXLhq8SJV5m86AM78HkYOIMqXATZY4iDA==" length="17228190" /></item><item><title>Version 1.0.44</title><pubDate>Sun, 20 Sep 2026 18:34:48 +0000</pubDate><description>## What's new in 1.0.44&lt;br/&gt;
 &lt;br/&gt;
 - Rows with no shortcut assigned no longer show Command-Space&lt;br/&gt;
 - Only rows with a real shortcut show a key combination</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.44/Utilix-1.0.44.dmg" type="application/octet-stream" sparkle:version="202609210000" sparkle:shortVersionString="1.0.44" sparkle:edSignature="cf3Gm4nlRZkY9wSTUtWqQ6LsBbgm3ObVrOvSshZtylfnqx7BCdSr/QOhuFyl+AoBkODt8fNzPuCooQ4dWul8Cg==" length="17208019" /></item><item><title>Version 1.0.43</title><pubDate>Sun, 20 Sep 2026 17:46:44 +0000</pubDate><description>## What's new in 1.0.43&lt;br/&gt;
