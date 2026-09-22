@@ -6,12 +6,19 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.47</title><pubDate>Tue, 22 Sep 2026 04:55:04 +0000</pubDate><description><![CDATA[## What's new in 1.0.47<br/>
+  <item><title>Version 1.0.48</title><pubDate>Tue, 22 Sep 2026 05:54:04 +0000</pubDate><description><![CDATA[## What's new in 1.0.48<br/>
 <br/>
-- Takeover works in the last few cases that were broken<br/>
-- Duplicating items works in the last few places that failed<br/>
-- Zoom now goes up to 200 percent<br/>
-- Settings that were hidden now open normally]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.47/Utilix-1.0.47.dmg" type="application/octet-stream" sparkle:version="202609221020" sparkle:shortVersionString="1.0.47" sparkle:edSignature="hcScV0PBoAZaq/JTQ500TKYVBce+aUpvEA88gpI19aJvdSX9+DAYAoA9jFecvst1o2GAcUNWGufzmzKnr8QCBA==" length="17298638" /></item><item><title>Version 1.0.46</title><pubDate>Tue, 22 Sep 2026 04:22:19 +0000</pubDate><description>## What's new in 1.0.46&lt;br/&gt;
+- Utilix no longer collects anonymous usage counts.<br/>
+- Settings opens where you clicked and closes when you click the icon again.<br/>
+- Settings stays on top of your other windows while it is open.<br/>
+- Mac Vision appears on the desktop you opened it from.<br/>
+- Opening Mac Vision again hides it.<br/>
+- Scrolling capture: drag the handle and release to keep the capture.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.48/Utilix-1.0.48.dmg" type="application/octet-stream" sparkle:version="202609221119" sparkle:shortVersionString="1.0.48" sparkle:edSignature="N2h5D3pqnOpc2duAgn11+1ym3xtljji8iIYktLJj7yKUgpcTDPtbirH6e60Zzs3oNd6r5RC+KsC2xf49N6AvDA==" length="17282029" /></item><item><title>Version 1.0.47</title><pubDate>Tue, 22 Sep 2026 04:55:04 +0000</pubDate><description>## What's new in 1.0.47&lt;br/&gt;
+&lt;br/&gt;
+- Takeover works in the last few cases that were broken&lt;br/&gt;
+- Duplicating items works in the last few places that failed&lt;br/&gt;
+- Zoom now goes up to 200 percent&lt;br/&gt;
+- Settings that were hidden now open normally</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.47/Utilix-1.0.47.dmg" type="application/octet-stream" sparkle:version="202609221020" sparkle:shortVersionString="1.0.47" sparkle:edSignature="hcScV0PBoAZaq/JTQ500TKYVBce+aUpvEA88gpI19aJvdSX9+DAYAoA9jFecvst1o2GAcUNWGufzmzKnr8QCBA==" length="17298638" /></item><item><title>Version 1.0.46</title><pubDate>Tue, 22 Sep 2026 04:22:19 +0000</pubDate><description>## What's new in 1.0.46&lt;br/&gt;
 &lt;br/&gt;
 - The area picker now shows what it will capture before you click&lt;br/&gt;
 - Long page captures scroll the page for you&lt;br/&gt;
