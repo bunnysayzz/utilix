@@ -6,13 +6,18 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.46</title><pubDate>Tue, 22 Sep 2026 04:22:19 +0000</pubDate><description><![CDATA[## What's new in 1.0.46<br/>
+  <item><title>Version 1.0.47</title><pubDate>Tue, 22 Sep 2026 04:55:04 +0000</pubDate><description><![CDATA[## What's new in 1.0.47<br/>
 <br/>
-- The area picker now shows what it will capture before you click<br/>
-- Long page captures scroll the page for you<br/>
-- Every permission prompt now offers a way to fix it on the spot<br/>
-- Annotator adds a select tool, undo history, and an easy way out<br/>
-- Both screenshot settings screens now show the same choices]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.46/Utilix-1.0.46.dmg" type="application/octet-stream" sparkle:version="202609220949" sparkle:shortVersionString="1.0.46" sparkle:edSignature="TH1vrSs23zCQMMvz0SlBjY0n5U64zo7oMrXNPU3mfEl8CTz0mqrMOj9zDJhrQW5D6ppSWTt42xzR7+W2+LabDQ==" length="17302179" /></item><item><title>Version 1.0.45</title><pubDate>Mon, 21 Sep 2026 03:37:02 +0000</pubDate><description>## What's new in 1.0.45&lt;br/&gt;
+- Takeover works in the last few cases that were broken<br/>
+- Duplicating items works in the last few places that failed<br/>
+- Zoom now goes up to 200 percent<br/>
+- Settings that were hidden now open normally]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.47/Utilix-1.0.47.dmg" type="application/octet-stream" sparkle:version="202609221020" sparkle:shortVersionString="1.0.47" sparkle:edSignature="hcScV0PBoAZaq/JTQ500TKYVBce+aUpvEA88gpI19aJvdSX9+DAYAoA9jFecvst1o2GAcUNWGufzmzKnr8QCBA==" length="17298638" /></item><item><title>Version 1.0.46</title><pubDate>Tue, 22 Sep 2026 04:22:19 +0000</pubDate><description>## What's new in 1.0.46&lt;br/&gt;
+&lt;br/&gt;
+- The area picker now shows what it will capture before you click&lt;br/&gt;
+- Long page captures scroll the page for you&lt;br/&gt;
+- Every permission prompt now offers a way to fix it on the spot&lt;br/&gt;
+- Annotator adds a select tool, undo history, and an easy way out&lt;br/&gt;
+- Both screenshot settings screens now show the same choices</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.46/Utilix-1.0.46.dmg" type="application/octet-stream" sparkle:version="202609220949" sparkle:shortVersionString="1.0.46" sparkle:edSignature="TH1vrSs23zCQMMvz0SlBjY0n5U64zo7oMrXNPU3mfEl8CTz0mqrMOj9zDJhrQW5D6ppSWTt42xzR7+W2+LabDQ==" length="17302179" /></item><item><title>Version 1.0.45</title><pubDate>Mon, 21 Sep 2026 03:37:02 +0000</pubDate><description>## What's new in 1.0.45&lt;br/&gt;
 &lt;br/&gt;
 - Scroll capture now shows a panel with status, Stop, and Discard.&lt;br/&gt;
 - Scroll capture guides you through each step and ends clearly.&lt;br/&gt;
