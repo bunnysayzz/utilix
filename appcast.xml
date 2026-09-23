@@ -6,14 +6,21 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.48</title><pubDate>Tue, 22 Sep 2026 05:54:04 +0000</pubDate><description><![CDATA[## What's new in 1.0.48<br/>
+  <item><title>Version 1.0.49</title><pubDate>Wed, 23 Sep 2026 11:40:23 +0000</pubDate><description><![CDATA[## What's new in 1.0.49<br/>
 <br/>
-- Utilix no longer collects anonymous usage counts.<br/>
-- Settings opens where you clicked and closes when you click the icon again.<br/>
-- Settings stays on top of your other windows while it is open.<br/>
-- Mac Vision appears on the desktop you opened it from.<br/>
-- Opening Mac Vision again hides it.<br/>
-- Scrolling capture: drag the handle and release to keep the capture.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.48/Utilix-1.0.48.dmg" type="application/octet-stream" sparkle:version="202609221119" sparkle:shortVersionString="1.0.48" sparkle:edSignature="N2h5D3pqnOpc2duAgn11+1ym3xtljji8iIYktLJj7yKUgpcTDPtbirH6e60Zzs3oNd6r5RC+KsC2xf49N6AvDA==" length="17282029" /></item><item><title>Version 1.0.47</title><pubDate>Tue, 22 Sep 2026 04:55:04 +0000</pubDate><description>## What's new in 1.0.47&lt;br/&gt;
+- Clipboard images now hand over their text so you can paste it anywhere<br/>
+- The emoji picker now covers all of Unicode and builds skin tone versions<br/>
+- QR codes now offer correction levels, quiet zones, export sizes and SVG<br/>
+- Pomodoro timers now run in cycles, with a long break at the end of each<br/>
+- Settings stays responsive during a backup or restore, and both can be stopped<br/>
+- Compressing a batch of files now has a stop control and one delivery folder]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.49/Utilix-1.0.49.dmg" type="application/octet-stream" sparkle:version="202609231703" sparkle:shortVersionString="1.0.49" sparkle:edSignature="NIPG+zEnCH37o49MBVYOoeDyRsEGR0OLPSEmy4Bdh2bs6mPFgiScpZOxg9u/b9cHWXJ9RyOTLji8ossOLLuoCQ==" length="18156871" /></item><item><title>Version 1.0.48</title><pubDate>Tue, 22 Sep 2026 05:54:04 +0000</pubDate><description>## What's new in 1.0.48&lt;br/&gt;
+&lt;br/&gt;
+- Utilix no longer collects anonymous usage counts.&lt;br/&gt;
+- Settings opens where you clicked and closes when you click the icon again.&lt;br/&gt;
+- Settings stays on top of your other windows while it is open.&lt;br/&gt;
+- Mac Vision appears on the desktop you opened it from.&lt;br/&gt;
+- Opening Mac Vision again hides it.&lt;br/&gt;
+- Scrolling capture: drag the handle and release to keep the capture.</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.48/Utilix-1.0.48.dmg" type="application/octet-stream" sparkle:version="202609221119" sparkle:shortVersionString="1.0.48" sparkle:edSignature="N2h5D3pqnOpc2duAgn11+1ym3xtljji8iIYktLJj7yKUgpcTDPtbirH6e60Zzs3oNd6r5RC+KsC2xf49N6AvDA==" length="17282029" /></item><item><title>Version 1.0.47</title><pubDate>Tue, 22 Sep 2026 04:55:04 +0000</pubDate><description>## What's new in 1.0.47&lt;br/&gt;
 &lt;br/&gt;
 - Takeover works in the last few cases that were broken&lt;br/&gt;
 - Duplicating items works in the last few places that failed&lt;br/&gt;
