@@ -6,11 +6,15 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.53</title><pubDate>Wed, 23 Sep 2026 18:57:47 +0000</pubDate><description><![CDATA[## What's new in 1.0.53<br/>
+  <item><title>Version 1.0.54</title><pubDate>Wed, 23 Sep 2026 19:45:00 +0000</pubDate><description><![CDATA[## What's new in 1.0.54<br/>
 <br/>
-- Taking a screenshot no longer pulls you out of a fullscreen app<br/>
-- Utilix now lives only in the menu bar, with no Dock icon<br/>
-- After a capture ends, the app you were using stays in front]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.53/Utilix-1.0.53.dmg" type="application/octet-stream" sparkle:version="202609240023" sparkle:shortVersionString="1.0.53" sparkle:edSignature="91Ry4WGyxw7a+HaMKTvjiZGfDEG0FQ5sgHlh8wFL1+0U7CYkD3tUDUc9Llks2XamM0x+8Z4xTB/inXvr5JWZAg==" length="18241186" /></item><item><title>Version 1.0.52</title><pubDate>Wed, 23 Sep 2026 15:58:20 +0000</pubDate><description>## What's new in 1.0.52&lt;br/&gt;
+- Pages now scroll for you, no dragging a scrollbar handle<br/>
+- Multi-Snap now appears on the overlay<br/>
+- Multi-Snap no longer opens an editor window]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.54/Utilix-1.0.54.dmg" type="application/octet-stream" sparkle:version="202609240110" sparkle:shortVersionString="1.0.54" sparkle:edSignature="jEK3dmwfR3RGPpcTZaGFuouPoIQHByJmgjc69FB3ee54+hkvnT+aFsAEwvjyMm22atVyXBU3ezwk6R+uHHtQCA==" length="18246477" /></item><item><title>Version 1.0.53</title><pubDate>Wed, 23 Sep 2026 18:57:47 +0000</pubDate><description>## What's new in 1.0.53&lt;br/&gt;
+&lt;br/&gt;
+- Taking a screenshot no longer pulls you out of a fullscreen app&lt;br/&gt;
+- Utilix now lives only in the menu bar, with no Dock icon&lt;br/&gt;
+- After a capture ends, the app you were using stays in front</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.53/Utilix-1.0.53.dmg" type="application/octet-stream" sparkle:version="202609240023" sparkle:shortVersionString="1.0.53" sparkle:edSignature="91Ry4WGyxw7a+HaMKTvjiZGfDEG0FQ5sgHlh8wFL1+0U7CYkD3tUDUc9Llks2XamM0x+8Z4xTB/inXvr5JWZAg==" length="18241186" /></item><item><title>Version 1.0.52</title><pubDate>Wed, 23 Sep 2026 15:58:20 +0000</pubDate><description>## What's new in 1.0.52&lt;br/&gt;
 &lt;br/&gt;
 - This update is about keeping Utilix running smoothly.&lt;br/&gt;
 - Small fixes are included from the previous version.&lt;br/&gt;
