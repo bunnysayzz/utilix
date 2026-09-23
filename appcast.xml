@@ -6,11 +6,15 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.52</title><pubDate>Wed, 23 Sep 2026 15:58:20 +0000</pubDate><description><![CDATA[## What's new in 1.0.52<br/>
+  <item><title>Version 1.0.53</title><pubDate>Wed, 23 Sep 2026 18:57:47 +0000</pubDate><description><![CDATA[## What's new in 1.0.53<br/>
 <br/>
-- This update is about keeping Utilix running smoothly.<br/>
-- Small fixes are included from the previous version.<br/>
-- You will not notice any change in how the app looks or works.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.52/Utilix-1.0.52.dmg" type="application/octet-stream" sparkle:version="202609232124" sparkle:shortVersionString="1.0.52" sparkle:edSignature="C6hBTk4fy5kB5FDzmzb0l57/mACziojVW18x7gXaJqMutMnOjVUoPwuB89oDDsk8lLP4LOjEQPabXQ2F4VPwDQ==" length="18241999" /></item><item><title>Version 1.0.51</title><pubDate>Wed, 23 Sep 2026 13:09:56 +0000</pubDate><description>## What's new in 1.0.51&lt;br/&gt;
+- Taking a screenshot no longer pulls you out of a fullscreen app<br/>
+- Utilix now lives only in the menu bar, with no Dock icon<br/>
+- After a capture ends, the app you were using stays in front]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.53/Utilix-1.0.53.dmg" type="application/octet-stream" sparkle:version="202609240023" sparkle:shortVersionString="1.0.53" sparkle:edSignature="91Ry4WGyxw7a+HaMKTvjiZGfDEG0FQ5sgHlh8wFL1+0U7CYkD3tUDUc9Llks2XamM0x+8Z4xTB/inXvr5JWZAg==" length="18241186" /></item><item><title>Version 1.0.52</title><pubDate>Wed, 23 Sep 2026 15:58:20 +0000</pubDate><description>## What's new in 1.0.52&lt;br/&gt;
+&lt;br/&gt;
+- This update is about keeping Utilix running smoothly.&lt;br/&gt;
+- Small fixes are included from the previous version.&lt;br/&gt;
+- You will not notice any change in how the app looks or works.</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.52/Utilix-1.0.52.dmg" type="application/octet-stream" sparkle:version="202609232124" sparkle:shortVersionString="1.0.52" sparkle:edSignature="C6hBTk4fy5kB5FDzmzb0l57/mACziojVW18x7gXaJqMutMnOjVUoPwuB89oDDsk8lLP4LOjEQPabXQ2F4VPwDQ==" length="18241999" /></item><item><title>Version 1.0.51</title><pubDate>Wed, 23 Sep 2026 13:09:56 +0000</pubDate><description>## What's new in 1.0.51&lt;br/&gt;
 &lt;br/&gt;
 - Check the artifact, not just the library, before shipping an update&lt;br/&gt;
 - Preload the providers you actually rotate between, and make the load measurable&lt;br/&gt;
