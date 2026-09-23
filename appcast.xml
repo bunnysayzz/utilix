@@ -6,10 +6,14 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.50</title><pubDate>Wed, 23 Sep 2026 12:29:02 +0000</pubDate><description><![CDATA[## What's new in 1.0.50<br/>
+  <item><title>Version 1.0.51</title><pubDate>Wed, 23 Sep 2026 13:09:56 +0000</pubDate><description><![CDATA[## What's new in 1.0.51<br/>
 <br/>
-- Emoji search no longer crashes the app<br/>
-- Emoji search opens and shows results again]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.50/Utilix-1.0.50.dmg" type="application/octet-stream" sparkle:version="202609231754" sparkle:shortVersionString="1.0.50" sparkle:edSignature="8TnE2+PuMwQSW8FqPnYD24Qk/TfBWWAGD88j/+jHSuMXczXImw4rOaVJ9vDt9TM3i4VWmH4lYavXly11rMB+AA==" length="18236337" /></item><item><title>Version 1.0.49</title><pubDate>Wed, 23 Sep 2026 11:40:23 +0000</pubDate><description>## What's new in 1.0.49&lt;br/&gt;
+- Check the artifact, not just the library, before shipping an update<br/>
+- Preload the providers you actually rotate between, and make the load measurable<br/>
+- Sweep a rebranded copy so the release smoke cannot touch real preferences]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.51/Utilix-1.0.51.dmg" type="application/octet-stream" sparkle:version="202609231834" sparkle:shortVersionString="1.0.51" sparkle:edSignature="Bhk5thCAReBXHMhuJre7+hrYNJqr1MSt8x+NtKh6Cu36JFAr7g4Npb3JWrm+OkOUNxAKnm71QkxxoFubo2tvBA==" length="18241398" /></item><item><title>Version 1.0.50</title><pubDate>Wed, 23 Sep 2026 12:29:02 +0000</pubDate><description>## What's new in 1.0.50&lt;br/&gt;
+&lt;br/&gt;
+- Emoji search no longer crashes the app&lt;br/&gt;
+- Emoji search opens and shows results again</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.50/Utilix-1.0.50.dmg" type="application/octet-stream" sparkle:version="202609231754" sparkle:shortVersionString="1.0.50" sparkle:edSignature="8TnE2+PuMwQSW8FqPnYD24Qk/TfBWWAGD88j/+jHSuMXczXImw4rOaVJ9vDt9TM3i4VWmH4lYavXly11rMB+AA==" length="18236337" /></item><item><title>Version 1.0.49</title><pubDate>Wed, 23 Sep 2026 11:40:23 +0000</pubDate><description>## What's new in 1.0.49&lt;br/&gt;
 &lt;br/&gt;
 - Clipboard images now hand over their text so you can paste it anywhere&lt;br/&gt;
 - The emoji picker now covers all of Unicode and builds skin tone versions&lt;br/&gt;
