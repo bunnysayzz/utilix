@@ -6,11 +6,14 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.55</title><pubDate>Thu, 24 Sep 2026 05:39:24 +0000</pubDate><description><![CDATA[## What's new in 1.0.55<br/>
+  <item><title>Version 1.0.56</title><pubDate>Thu, 24 Sep 2026 17:19:55 +0000</pubDate><description><![CDATA[## What's new in 1.0.56<br/>
 <br/>
-- Scrolling capture now scrolls the page for you<br/>
-- It says which app is doing the scrolling<br/>
-- You do not have to scroll by hand during a capture]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.55/Utilix-1.0.55.dmg" type="application/octet-stream" sparkle:version="202609241104" sparkle:shortVersionString="1.0.55" sparkle:edSignature="8rFFsVg2HI0tSQh95gtkiO3QjQU4cne6rI6kFBrU5QBvMLOv7wwIz6wUh3vhKE00O9S1BCwN6RrhB7aEN7zfAw==" length="18250429" /></item><item><title>Version 1.0.54</title><pubDate>Wed, 23 Sep 2026 19:45:00 +0000</pubDate><description>## What's new in 1.0.54&lt;br/&gt;
+- Drag-to-select tools now respond to your very first drag, no second try needed<br/>
+- The magnifier that used to appear while you dragged a selection is gone]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.56/Utilix-1.0.56.dmg" type="application/octet-stream" sparkle:version="202609242244" sparkle:shortVersionString="1.0.56" sparkle:edSignature="YO2cYgygOVtm03CCn2g2fD+zLMkgOxs0Viz0i+s6a49Iu0cJKfq6TjOciG1e0MzxfAqpAhpYvcXd3VDdJTLfDg==" length="18263548" /></item><item><title>Version 1.0.55</title><pubDate>Thu, 24 Sep 2026 05:39:24 +0000</pubDate><description>## What's new in 1.0.55&lt;br/&gt;
+&lt;br/&gt;
+- Scrolling capture now scrolls the page for you&lt;br/&gt;
+- It says which app is doing the scrolling&lt;br/&gt;
+- You do not have to scroll by hand during a capture</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.55/Utilix-1.0.55.dmg" type="application/octet-stream" sparkle:version="202609241104" sparkle:shortVersionString="1.0.55" sparkle:edSignature="8rFFsVg2HI0tSQh95gtkiO3QjQU4cne6rI6kFBrU5QBvMLOv7wwIz6wUh3vhKE00O9S1BCwN6RrhB7aEN7zfAw==" length="18250429" /></item><item><title>Version 1.0.54</title><pubDate>Wed, 23 Sep 2026 19:45:00 +0000</pubDate><description>## What's new in 1.0.54&lt;br/&gt;
 &lt;br/&gt;
 - Pages now scroll for you, no dragging a scrollbar handle&lt;br/&gt;
 - Multi-Snap now appears on the overlay&lt;br/&gt;
