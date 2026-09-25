@@ -6,11 +6,18 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.60</title><pubDate>Fri, 25 Sep 2026 07:01:29 +0000</pubDate><description><![CDATA[## What's new in 1.0.60<br/>
+  <item><title>Version 1.0.61</title><pubDate>Fri, 25 Sep 2026 13:04:28 +0000</pubDate><description><![CDATA[## What's new in 1.0.61<br/>
 <br/>
-- The palette gets out of the way while you select text on screen<br/>
-- The small window that goes with it steps aside too<br/>
-- Both return as soon as you finish selecting]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.60/Utilix-1.0.60.dmg" type="application/octet-stream" sparkle:version="202609251226" sparkle:shortVersionString="1.0.60" sparkle:edSignature="6BhrlaLJ+k8JyLWMb3SRFjG5jGZNnAAr1htTsegUYwJ5v5NN83yJMl2zNP52D+kM8jpfoP6xQzgIA1R2FsUADQ==" length="18326190" /></item><item><title>Version 1.0.59</title><pubDate>Fri, 25 Sep 2026 06:30:19 +0000</pubDate><description>## What's new in 1.0.59&lt;br/&gt;
+- Each utility now has its own settings page.<br/>
+- Settings pages and utility panes always appear in the same order.<br/>
+- Every shortcut now sits next to the utility it triggers.<br/>
+- You can open a utility's settings right from its live pane.<br/>
+- The shortcut map lists each shortcut on one row and is searchable.<br/>
+- Back up your shortcuts and see suggestions for keys that are free.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.61/Utilix-1.0.61.dmg" type="application/octet-stream" sparkle:version="202609251829" sparkle:shortVersionString="1.0.61" sparkle:edSignature="8+zlug71ikbTwnf2lnesxgQ+r+bWuECfEso0bGi7f1hN/h5Z09WftXZpBEuGop+Gu4rIwKSou4i5JhC7lomnAQ==" length="18465084" /></item><item><title>Version 1.0.60</title><pubDate>Fri, 25 Sep 2026 07:01:29 +0000</pubDate><description>## What's new in 1.0.60&lt;br/&gt;
+&lt;br/&gt;
+- The palette gets out of the way while you select text on screen&lt;br/&gt;
+- The small window that goes with it steps aside too&lt;br/&gt;
+- Both return as soon as you finish selecting</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.60/Utilix-1.0.60.dmg" type="application/octet-stream" sparkle:version="202609251226" sparkle:shortVersionString="1.0.60" sparkle:edSignature="6BhrlaLJ+k8JyLWMb3SRFjG5jGZNnAAr1htTsegUYwJ5v5NN83yJMl2zNP52D+kM8jpfoP6xQzgIA1R2FsUADQ==" length="18326190" /></item><item><title>Version 1.0.59</title><pubDate>Fri, 25 Sep 2026 06:30:19 +0000</pubDate><description>## What's new in 1.0.59&lt;br/&gt;
 &lt;br/&gt;
 - Screenshots now save to a real folder, starting with your Screenshots folder&lt;br/&gt;
 - Opening the annotate editor or Settings no longer pulls you out of a fullscreen app&lt;br/&gt;
