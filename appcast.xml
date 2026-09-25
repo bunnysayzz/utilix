@@ -6,12 +6,16 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.59</title><pubDate>Fri, 25 Sep 2026 06:30:19 +0000</pubDate><description><![CDATA[## What's new in 1.0.59<br/>
+  <item><title>Version 1.0.60</title><pubDate>Fri, 25 Sep 2026 07:01:29 +0000</pubDate><description><![CDATA[## What's new in 1.0.60<br/>
 <br/>
-- Screenshots now save to a real folder, starting with your Screenshots folder<br/>
-- Opening the annotate editor or Settings no longer pulls you out of a fullscreen app<br/>
-- The shortcut recorder now captures the keys you press, even when the menu does not<br/>
-- The shortcut recorder ring now stays inside its pill]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.59/Utilix-1.0.59.dmg" type="application/octet-stream" sparkle:version="202609251155" sparkle:shortVersionString="1.0.59" sparkle:edSignature="hQLDTtZ7mtCDHRPBW1ynXTuWHtWv4FmvlFFczzirF2Z3KZLuk8C/0K/UEbopf97PfYvs6AoP7y/w/pCHwh7xBA==" length="18318733" /></item><item><title>Version 1.0.58</title><pubDate>Thu, 24 Sep 2026 19:42:14 +0000</pubDate><description>## What's new in 1.0.58&lt;br/&gt;
+- The palette gets out of the way while you select text on screen<br/>
+- The small window that goes with it steps aside too<br/>
+- Both return as soon as you finish selecting]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.60/Utilix-1.0.60.dmg" type="application/octet-stream" sparkle:version="202609251226" sparkle:shortVersionString="1.0.60" sparkle:edSignature="6BhrlaLJ+k8JyLWMb3SRFjG5jGZNnAAr1htTsegUYwJ5v5NN83yJMl2zNP52D+kM8jpfoP6xQzgIA1R2FsUADQ==" length="18326190" /></item><item><title>Version 1.0.59</title><pubDate>Fri, 25 Sep 2026 06:30:19 +0000</pubDate><description>## What's new in 1.0.59&lt;br/&gt;
+&lt;br/&gt;
+- Screenshots now save to a real folder, starting with your Screenshots folder&lt;br/&gt;
+- Opening the annotate editor or Settings no longer pulls you out of a fullscreen app&lt;br/&gt;
+- The shortcut recorder now captures the keys you press, even when the menu does not&lt;br/&gt;
+- The shortcut recorder ring now stays inside its pill</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.59/Utilix-1.0.59.dmg" type="application/octet-stream" sparkle:version="202609251155" sparkle:shortVersionString="1.0.59" sparkle:edSignature="hQLDTtZ7mtCDHRPBW1ynXTuWHtWv4FmvlFFczzirF2Z3KZLuk8C/0K/UEbopf97PfYvs6AoP7y/w/pCHwh7xBA==" length="18318733" /></item><item><title>Version 1.0.58</title><pubDate>Thu, 24 Sep 2026 19:42:14 +0000</pubDate><description>## What's new in 1.0.58&lt;br/&gt;
 &lt;br/&gt;
 - Multi-Snap shows up on the screen you are working on again&lt;br/&gt;
 - Overlays stay at the right level again&lt;br/&gt;
