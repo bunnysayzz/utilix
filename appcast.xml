@@ -6,12 +6,17 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.63</title><pubDate>Fri, 25 Sep 2026 19:53:03 +0000</pubDate><description><![CDATA[## What's new in 1.0.63<br/>
+  <item><title>Version 1.0.64</title><pubDate>Sat, 26 Sep 2026 11:06:45 +0000</pubDate><description><![CDATA[## What's new in 1.0.64<br/>
 <br/>
-- Right-clicking a file in Web Chat now saves it to your Downloads folder<br/>
-- The About page shows a single card, and each status row now reports the real state<br/>
-- Every palette tool now uses the same text sizes<br/>
-- QR and Batch Rename panes now show a header and their action buttons]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.63/Utilix-1.0.63.dmg" type="application/octet-stream" sparkle:version="202609260117" sparkle:shortVersionString="1.0.63" sparkle:edSignature="iiGLQg5kbncDnCj4C1GEXpuyrFcAXTh4/tM/Zez3/hGV+UjFAaf9nwf0LIr1mYmCUz3bxqESBPb/zLSgCz6+Bw==" length="18572256" /></item><item><title>Version 1.0.62</title><pubDate>Fri, 25 Sep 2026 17:57:33 +0000</pubDate><description>## What's new in 1.0.62&lt;br/&gt;
+- GIF recorder now has capture controls plus a crop and speed editor<br/>
+- Annotation editor adds line, ellipse, highlight and step tools<br/>
+- Window snap now offers sixths, moving edges and optional gaps<br/>
+- Snap gaps fit your desktop so windows keep breathing room]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.64/Utilix-1.0.64.dmg" type="application/octet-stream" sparkle:version="202609261617" sparkle:shortVersionString="1.0.64" sparkle:edSignature="sSA7YT2vilt/ekSFk8PLQI8P3767RDhJlUaVZ4O59ukuBjP64vXZbZFPVueIw9tHJPnyASLb7DfpcPWM+hmoAg==" length="18634028" /></item><item><title>Version 1.0.63</title><pubDate>Fri, 25 Sep 2026 19:53:03 +0000</pubDate><description>## What's new in 1.0.63&lt;br/&gt;
+&lt;br/&gt;
+- Right-clicking a file in Web Chat now saves it to your Downloads folder&lt;br/&gt;
+- The About page shows a single card, and each status row now reports the real state&lt;br/&gt;
+- Every palette tool now uses the same text sizes&lt;br/&gt;
+- QR and Batch Rename panes now show a header and their action buttons</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.63/Utilix-1.0.63.dmg" type="application/octet-stream" sparkle:version="202609260117" sparkle:shortVersionString="1.0.63" sparkle:edSignature="iiGLQg5kbncDnCj4C1GEXpuyrFcAXTh4/tM/Zez3/hGV+UjFAaf9nwf0LIr1mYmCUz3bxqESBPb/zLSgCz6+Bw==" length="18572256" /></item><item><title>Version 1.0.62</title><pubDate>Fri, 25 Sep 2026 17:57:33 +0000</pubDate><description>## What's new in 1.0.62&lt;br/&gt;
 &lt;br/&gt;
 - Keyboard shortcuts now sit on the page that uses them&lt;br/&gt;
 - Each shortcut works on its own page, with no jumping around&lt;br/&gt;
