@@ -6,12 +6,16 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.65</title><pubDate>Sat, 26 Sep 2026 17:12:52 +0000</pubDate><description><![CDATA[## What's new in 1.0.65<br/>
+  <item><title>Version 1.0.66</title><pubDate>Sat, 26 Sep 2026 18:28:40 +0000</pubDate><description><![CDATA[## What's new in 1.0.66<br/>
 <br/>
-- Settings now opens on the desktop you are using<br/>
-- Opening Settings no longer slides you back to another desktop<br/>
-- The window snap preview shows up only while you drag a window<br/>
-- You no longer see the snap preview when no window is being dragged]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.65/Utilix-1.0.65.dmg" type="application/octet-stream" sparkle:version="202609262237" sparkle:shortVersionString="1.0.65" sparkle:edSignature="WgjOTAcSlNDhafvkYdPBQt0AHlCoFDGs6o8QvkF8GH9IDvc392h+1/42ikZe460+g667+d+0EsvEwrIsuaSYBg==" length="18634919" /></item><item><title>Version 1.0.64</title><pubDate>Sat, 26 Sep 2026 11:06:45 +0000</pubDate><description>## What's new in 1.0.64&lt;br/&gt;
+- The assistant can no longer delete your files<br/>
+- Deletion requests from the assistant are turned down automatically<br/>
+- Clicking an approval card now hides it right away]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.66/Utilix-1.0.66.dmg" type="application/octet-stream" sparkle:version="202609262353" sparkle:shortVersionString="1.0.66" sparkle:edSignature="UIaUmZflgkHd7XN8swbC3BD2/mlgqIFaVV6ZOyfhm6Ps+JQvwCYUxU5MMrC2sRjQjKBRWXE3YsRIX9e9xYeICQ==" length="18647963" /></item><item><title>Version 1.0.65</title><pubDate>Sat, 26 Sep 2026 17:12:52 +0000</pubDate><description>## What's new in 1.0.65&lt;br/&gt;
+&lt;br/&gt;
+- Settings now opens on the desktop you are using&lt;br/&gt;
+- Opening Settings no longer slides you back to another desktop&lt;br/&gt;
+- The window snap preview shows up only while you drag a window&lt;br/&gt;
+- You no longer see the snap preview when no window is being dragged</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.65/Utilix-1.0.65.dmg" type="application/octet-stream" sparkle:version="202609262237" sparkle:shortVersionString="1.0.65" sparkle:edSignature="WgjOTAcSlNDhafvkYdPBQt0AHlCoFDGs6o8QvkF8GH9IDvc392h+1/42ikZe460+g667+d+0EsvEwrIsuaSYBg==" length="18634919" /></item><item><title>Version 1.0.64</title><pubDate>Sat, 26 Sep 2026 11:06:45 +0000</pubDate><description>## What's new in 1.0.64&lt;br/&gt;
 &lt;br/&gt;
 - GIF recorder now has capture controls plus a crop and speed editor&lt;br/&gt;
 - Annotation editor adds line, ellipse, highlight and step tools&lt;br/&gt;
