@@ -6,12 +6,17 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.64</title><pubDate>Sat, 26 Sep 2026 11:06:45 +0000</pubDate><description><![CDATA[## What's new in 1.0.64<br/>
+  <item><title>Version 1.0.65</title><pubDate>Sat, 26 Sep 2026 17:12:52 +0000</pubDate><description><![CDATA[## What's new in 1.0.65<br/>
 <br/>
-- GIF recorder now has capture controls plus a crop and speed editor<br/>
-- Annotation editor adds line, ellipse, highlight and step tools<br/>
-- Window snap now offers sixths, moving edges and optional gaps<br/>
-- Snap gaps fit your desktop so windows keep breathing room]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.64/Utilix-1.0.64.dmg" type="application/octet-stream" sparkle:version="202609261617" sparkle:shortVersionString="1.0.64" sparkle:edSignature="sSA7YT2vilt/ekSFk8PLQI8P3767RDhJlUaVZ4O59ukuBjP64vXZbZFPVueIw9tHJPnyASLb7DfpcPWM+hmoAg==" length="18634028" /></item><item><title>Version 1.0.63</title><pubDate>Fri, 25 Sep 2026 19:53:03 +0000</pubDate><description>## What's new in 1.0.63&lt;br/&gt;
+- Settings now opens on the desktop you are using<br/>
+- Opening Settings no longer slides you back to another desktop<br/>
+- The window snap preview shows up only while you drag a window<br/>
+- You no longer see the snap preview when no window is being dragged]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.65/Utilix-1.0.65.dmg" type="application/octet-stream" sparkle:version="202609262237" sparkle:shortVersionString="1.0.65" sparkle:edSignature="WgjOTAcSlNDhafvkYdPBQt0AHlCoFDGs6o8QvkF8GH9IDvc392h+1/42ikZe460+g667+d+0EsvEwrIsuaSYBg==" length="18634919" /></item><item><title>Version 1.0.64</title><pubDate>Sat, 26 Sep 2026 11:06:45 +0000</pubDate><description>## What's new in 1.0.64&lt;br/&gt;
+&lt;br/&gt;
+- GIF recorder now has capture controls plus a crop and speed editor&lt;br/&gt;
+- Annotation editor adds line, ellipse, highlight and step tools&lt;br/&gt;
+- Window snap now offers sixths, moving edges and optional gaps&lt;br/&gt;
+- Snap gaps fit your desktop so windows keep breathing room</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.64/Utilix-1.0.64.dmg" type="application/octet-stream" sparkle:version="202609261617" sparkle:shortVersionString="1.0.64" sparkle:edSignature="sSA7YT2vilt/ekSFk8PLQI8P3767RDhJlUaVZ4O59ukuBjP64vXZbZFPVueIw9tHJPnyASLb7DfpcPWM+hmoAg==" length="18634028" /></item><item><title>Version 1.0.63</title><pubDate>Fri, 25 Sep 2026 19:53:03 +0000</pubDate><description>## What's new in 1.0.63&lt;br/&gt;
 &lt;br/&gt;
 - Right-clicking a file in Web Chat now saves it to your Downloads folder&lt;br/&gt;
 - The About page shows a single card, and each status row now reports the real state&lt;br/&gt;
