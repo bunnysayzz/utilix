@@ -6,14 +6,17 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.67</title><pubDate>Mon, 05 Oct 2026 17:21:44 +0000</pubDate><description><![CDATA[## What's new in 1.0.67<br/>
+  <item><title>Version 1.0.68</title><pubDate>Tue, 06 Oct 2026 10:35:28 +0000</pubDate><description><![CDATA[## What's new in 1.0.68<br/>
 <br/>
-- Wrap every agent tool result as untrusted data and cap its size<br/>
-- Keep a reviewable log of what the agent did, refusals included<br/>
-- Give the model a recall tool instead of stuffing saved data into prompts<br/>
-- Show which agent step is running so long tool chains read as progress<br/>
-- Record the AI follow-up build-out and what stays parked<br/>
-- Write the consolidated plan for everything still open]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.67/Utilix-1.0.67.dmg" type="application/octet-stream" sparkle:version="202610052245" sparkle:shortVersionString="1.0.67" sparkle:edSignature="OOD7EOQEgOG8hk1hMDdMfaN+9QVDmDQkiHlAT1CkEFw1uagOkf5fxcmCRjHvu+qj/4UKnGNNMSoCsa5G4KspCg==" length="18699741" /></item><item><title>Version 1.0.66</title><pubDate>Sat, 26 Sep 2026 18:28:40 +0000</pubDate><description>## What's new in 1.0.66&lt;br/&gt;
+- Temporary notes now appear immediately after you create them.<br/>
+- Temporary notes are saved instantly and won't be lost.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.68/Utilix-1.0.68.dmg" type="application/octet-stream" sparkle:version="202610061558" sparkle:shortVersionString="1.0.68" sparkle:edSignature="QQ3dDErct4vPw61BR/a7BjfyF2Y9qQ3koEy1WC0y1DiBkea4FQaZz3H1t3WAO3lWIbrB4bysXq5CGwbPHdLZAQ==" length="18702065" /></item><item><title>Version 1.0.67</title><pubDate>Mon, 05 Oct 2026 17:21:44 +0000</pubDate><description>## What's new in 1.0.67&lt;br/&gt;
+&lt;br/&gt;
+- Wrap every agent tool result as untrusted data and cap its size&lt;br/&gt;
+- Keep a reviewable log of what the agent did, refusals included&lt;br/&gt;
+- Give the model a recall tool instead of stuffing saved data into prompts&lt;br/&gt;
+- Show which agent step is running so long tool chains read as progress&lt;br/&gt;
+- Record the AI follow-up build-out and what stays parked&lt;br/&gt;
+- Write the consolidated plan for everything still open</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.67/Utilix-1.0.67.dmg" type="application/octet-stream" sparkle:version="202610052245" sparkle:shortVersionString="1.0.67" sparkle:edSignature="OOD7EOQEgOG8hk1hMDdMfaN+9QVDmDQkiHlAT1CkEFw1uagOkf5fxcmCRjHvu+qj/4UKnGNNMSoCsa5G4KspCg==" length="18699741" /></item><item><title>Version 1.0.66</title><pubDate>Sat, 26 Sep 2026 18:28:40 +0000</pubDate><description>## What's new in 1.0.66&lt;br/&gt;
 &lt;br/&gt;
 - The assistant can no longer delete your files&lt;br/&gt;
 - Deletion requests from the assistant are turned down automatically&lt;br/&gt;
