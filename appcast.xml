@@ -6,10 +6,19 @@
     <description>Update feed for Utilix, an all-in-one menu bar utility for macOS.</description>
     <language>en</language>
     
-  <item><title>Version 1.0.68</title><pubDate>Tue, 06 Oct 2026 10:35:28 +0000</pubDate><description><![CDATA[## What's new in 1.0.68<br/>
+  <item><title>Version 1.0.69</title><pubDate>Fri, 06 Nov 2026 04:57:36 +0000</pubDate><description><![CDATA[## What's new in 1.0.69<br/>
 <br/>
-- Temporary notes now appear immediately after you create them.<br/>
-- Temporary notes are saved instantly and won't be lost.]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.68/Utilix-1.0.68.dmg" type="application/octet-stream" sparkle:version="202610061558" sparkle:shortVersionString="1.0.68" sparkle:edSignature="QQ3dDErct4vPw61BR/a7BjfyF2Y9qQ3koEy1WC0y1DiBkea4FQaZz3H1t3WAO3lWIbrB4bysXq5CGwbPHdLZAQ==" length="18702065" /></item><item><title>Version 1.0.67</title><pubDate>Mon, 05 Oct 2026 17:21:44 +0000</pubDate><description>## What's new in 1.0.67&lt;br/&gt;
+- Add Codemagic build and test workflow<br/>
+- Add Codemagic auto-release workflow and SDK escape hatch<br/>
+- Stub the Accessibility trust check in expandSnippet tests<br/>
+- Drop the god-store gate from the Codemagic build workflow<br/>
+- Bootstrap the release venv in the Codemagic auto-release workflow<br/>
+- Fail loudly if the signing cert import fails in Codemagic<br/>
+- Make the signing cert import tolerant of whitespace in the secret<br/>
+- Remove the Codemagic auto-release workflow]]></description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.69/Utilix-1.0.69.dmg" type="application/octet-stream" sparkle:version="202611061020" sparkle:shortVersionString="1.0.69" sparkle:edSignature="b6ui8/L5xtTkUtA/7OQfX3P5KVpRUSWt/8z1C6PWqW/pjD5pa1wKWsHHt8/2ovjdvaGq1ZPY64gGGfzO4T9uAg==" length="18698779" /></item><item><title>Version 1.0.68</title><pubDate>Tue, 06 Oct 2026 10:35:28 +0000</pubDate><description>## What's new in 1.0.68&lt;br/&gt;
+&lt;br/&gt;
+- Temporary notes now appear immediately after you create them.&lt;br/&gt;
+- Temporary notes are saved instantly and won't be lost.</description><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/bunnysayzz/utilix/releases/download/v1.0.68/Utilix-1.0.68.dmg" type="application/octet-stream" sparkle:version="202610061558" sparkle:shortVersionString="1.0.68" sparkle:edSignature="QQ3dDErct4vPw61BR/a7BjfyF2Y9qQ3koEy1WC0y1DiBkea4FQaZz3H1t3WAO3lWIbrB4bysXq5CGwbPHdLZAQ==" length="18702065" /></item><item><title>Version 1.0.67</title><pubDate>Mon, 05 Oct 2026 17:21:44 +0000</pubDate><description>## What's new in 1.0.67&lt;br/&gt;
 &lt;br/&gt;
 - Wrap every agent tool result as untrusted data and cap its size&lt;br/&gt;
 - Keep a reviewable log of what the agent did, refusals included&lt;br/&gt;
